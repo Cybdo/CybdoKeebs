@@ -525,6 +525,26 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 63.5) (xy 135.89 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0210b7e4-1582-4e50-8c2a-ab0a3ff24900")
+	)
+	(wire
+		(pts
+			(xy 135.89 73.66) (xy 133.35 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "048559cd-b553-4c46-a84f-741dca46c199")
+	)
+	(wire
+		(pts
 			(xy 39.37 36.83) (xy 41.91 36.83)
 		)
 		(stroke
@@ -552,6 +572,16 @@
 			(type default)
 		)
 		(uuid "1a3f7119-84ec-4061-ad21-35e6496c3591")
+	)
+	(wire
+		(pts
+			(xy 133.35 68.58) (xy 135.89 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "209ef9f1-c0eb-488b-a248-58c889cf47c2")
 	)
 	(wire
 		(pts
@@ -685,6 +715,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 73.66) (xy 133.35 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "791c89f7-2faa-4a4b-845b-c714b0a0ff18")
+	)
+	(wire
+		(pts
 			(xy 133.35 35.56) (xy 135.89 35.56)
 		)
 		(stroke
@@ -745,6 +785,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 60.96) (xy 133.35 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa2f0acb-075c-48d4-9ca4-7486f0c483ca")
+	)
+	(wire
+		(pts
 			(xy 39.37 29.21) (xy 39.37 31.75)
 		)
 		(stroke
@@ -752,6 +802,16 @@
 			(type default)
 		)
 		(uuid "ab85ba02-ebbd-4ae5-8fbc-e5d0951ed08f")
+	)
+	(wire
+		(pts
+			(xy 133.35 66.04) (xy 135.89 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b12e77b3-1479-4235-8b35-020af1416c13")
 	)
 	(wire
 		(pts
@@ -772,6 +832,16 @@
 			(type default)
 		)
 		(uuid "bc6a2f7e-104a-4773-8370-80e2a5e5c2ba")
+	)
+	(wire
+		(pts
+			(xy 133.35 71.12) (xy 135.89 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c856374d-5515-4f49-a10f-9eaa7ec5e314")
 	)
 	(wire
 		(pts
@@ -886,7 +956,7 @@
 	)
 	(hierarchical_label "BUS5_SDA"
 		(shape bidirectional)
-		(at 133.35 33.02 180)
+		(at 133.35 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -897,7 +967,7 @@
 	)
 	(hierarchical_label "BUS1_EN"
 		(shape bidirectional)
-		(at 39.37 36.83 180)
+		(at 39.37 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -919,7 +989,7 @@
 	)
 	(hierarchical_label "BUS3_EN"
 		(shape bidirectional)
-		(at 86.36 36.83 180)
+		(at 86.36 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -930,7 +1000,7 @@
 	)
 	(hierarchical_label "BUS1_SDA"
 		(shape bidirectional)
-		(at 39.37 34.29 180)
+		(at 39.37 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -941,7 +1011,7 @@
 	)
 	(hierarchical_label "BUS2_EN"
 		(shape bidirectional)
-		(at 39.37 68.58 180)
+		(at 39.37 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -952,7 +1022,7 @@
 	)
 	(hierarchical_label "BUS3_SDA"
 		(shape bidirectional)
-		(at 86.36 34.29 180)
+		(at 86.36 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -985,7 +1055,7 @@
 	)
 	(hierarchical_label "BUS4_EN"
 		(shape bidirectional)
-		(at 86.36 68.58 180)
+		(at 86.36 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -994,9 +1064,20 @@
 		)
 		(uuid "b6e88dd8-d697-469d-9f5a-6412d8ff1a20")
 	)
+	(hierarchical_label "BUS6_EN"
+		(shape bidirectional)
+		(at 133.35 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bf0b8723-9180-4699-bcb8-bc12fddb7089")
+	)
 	(hierarchical_label "BUS2_SDA"
 		(shape bidirectional)
-		(at 39.37 66.04 180)
+		(at 39.37 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1004,6 +1085,17 @@
 			(justify right)
 		)
 		(uuid "c310648e-623c-4564-acda-d8e857166b8b")
+	)
+	(hierarchical_label "BUS6_SCL"
+		(shape bidirectional)
+		(at 133.35 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c415b2a9-6158-4896-8018-58406ca560e2")
 	)
 	(hierarchical_label "BUS5_SCL"
 		(shape bidirectional)
@@ -1018,7 +1110,7 @@
 	)
 	(hierarchical_label "BUS5_EN"
 		(shape bidirectional)
-		(at 133.35 35.56 180)
+		(at 133.35 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1027,9 +1119,20 @@
 		)
 		(uuid "e6647e85-f78f-4014-b42d-2b7e0adfeca0")
 	)
+	(hierarchical_label "BUS6_SDA"
+		(shape bidirectional)
+		(at 133.35 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed3a3cb5-3fdb-42f5-9856-e61393b535f7")
+	)
 	(hierarchical_label "BUS4_SDA"
 		(shape bidirectional)
-		(at 86.36 66.04 180)
+		(at 86.36 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1323,6 +1426,72 @@
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5/41905d77-ea62-40a6-b487-afb85a02e37c"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3dcd546c-0688-46a5-bf05-9555653f7b34")
+		(property "Reference" "#PWR046"
+			(at 133.35 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb3adfcd-527d-426f-92e2-f810f6caf324")
+		)
+		(instances
+			(project "CybdoKeebs_hub"
+				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5/41905d77-ea62-40a6-b487-afb85a02e37c"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -1883,6 +2052,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 133.35 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a957f1b7-b8ec-429a-94e9-d2e7446cc5c0")
+		(property "Reference" "#PWR045"
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 133.35 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3128a577-908f-4e1f-8928-895ad74728f3")
+		)
+		(instances
+			(project "CybdoKeebs_hub"
+				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5/41905d77-ea62-40a6-b487-afb85a02e37c"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 39.37 76.2 0)
 		(unit 1)
@@ -2009,6 +2244,85 @@
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5/41905d77-ea62-40a6-b487-afb85a02e37c"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x05_Socket")
+		(at 140.97 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f77289ef-192c-49b4-b5a7-99a55a05e9e4")
+		(property "Reference" "J7"
+			(at 142.24 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x05_Socket"
+			(at 142.24 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.97 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 140.97 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c9517b7e-eb65-4ae7-be2b-a44c51a8a16a")
+		)
+		(pin "4"
+			(uuid "ff2fbd8f-d7bf-4e15-818c-e83c4ce13860")
+		)
+		(pin "3"
+			(uuid "20f3df26-e91f-4b21-a356-b7aa459a9799")
+		)
+		(pin "5"
+			(uuid "3a18a4c7-feab-42f4-b2f5-7e1eb94abce1")
+		)
+		(pin "1"
+			(uuid "ebf82f1e-7729-453f-b78f-deb80e56997d")
+		)
+		(instances
+			(project "CybdoKeebs_hub"
+				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5/41905d77-ea62-40a6-b487-afb85a02e37c"
+					(reference "J7")
 					(unit 1)
 				)
 			)

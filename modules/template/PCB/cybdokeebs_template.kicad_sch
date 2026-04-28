@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 240.03 144.78)
+		(size 34.29 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3910099e-affd-4841-a7f5-4cc395588f19")
+		(property "Sheetname" "minimum_system"
+			(at 240.03 144.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "minimum_system.kicad_sch"
+			(at 240.03 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cybdokeebs_template"
+				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
