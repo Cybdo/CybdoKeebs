@@ -51,91 +51,8 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
-      "drc_exclusions": [
-        [
-          "clearance|200780000|134900000|2d3ad276-d8a1-43b7-8a49-983f2baa262e|34e4ee78-9042-4821-ae49-a0ae2b25a9cc",
-          ""
-        ],
-        [
-          "drill_out_of_range|181869050|136496200|7e0e68a9-266f-48cc-9a17-6c5cf2522fac|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|181869050|137871200|56f06d16-409d-42e7-80d5-917c64a6ffe4|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|181869050|139246200|e101e58d-5764-438b-970a-7742133e0426|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|183244050|136496200|49794f27-4467-4904-a25a-64084c3a0f07|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|183244050|137871200|46099314-8249-4d00-86db-f12d355e9973|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|183244050|139246200|9af24074-fd88-4f4a-bcba-5e166f05d496|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|184619050|136496200|a88ae115-5432-485e-9229-f8d30ad8e967|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|184619050|137871200|b87cfcb7-5b70-4811-b4a6-51d4dbaa5802|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|184619050|139246200|d5f2f59f-728a-40a8-b6bb-652e6fdc7aae|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_edge_clearance|199030000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|323b870b-8ece-4524-808f-767207073f42",
-          ""
-        ],
-        [
-          "silk_edge_clearance|208430000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|4f4122e8-2396-4226-ad0a-cafaa7f27ec0",
-          ""
-        ],
-        [
-          "silk_edge_clearance|320320500|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|0098efda-bbc2-40ca-80d9-359885efa7c4",
-          ""
-        ],
-        [
-          "silk_edge_clearance|327320500|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|f3c7bd4c-0fc2-422c-a3c0-eddee60fae15",
-          ""
-        ],
-        [
-          "silk_edge_clearance|330127000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|631975d2-b0f4-4d55-b700-91a0e9752476",
-          ""
-        ],
-        [
-          "silk_edge_clearance|337127000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|e60309a0-56ae-4d7c-bd5e-a697b4690974",
-          ""
-        ],
-        [
-          "silk_edge_clearance|339970000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|0f0feec5-39bc-4725-9615-6f30b83bd2c8",
-          ""
-        ],
-        [
-          "silk_edge_clearance|346970000|127240000|1a2d5a3c-8c22-4e5b-b4be-f0a6a4535b32|e76ce22e-0c81-4126-8bb3-b582bcef39a8",
-          ""
-        ],
-        [
-          "text_height|189763400|131165600|00c2f19d-ba80-46b5-ba09-f24de8c91751|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -263,13 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.0,
-        0.2,
-        0.4,
-        0.6
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -296,12 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -545,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CybdoKeebs_hub.kicad_pro",
+    "filename": "cybdokeebs_template.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -705,16 +611,12 @@
   },
   "sheets": [
     [
-      "9919a4c0-a87a-4146-b547-4b221dff87d5",
+      "cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122",
       "Root"
     ],
     [
-      "6433cd5a-075c-48ef-82a6-b810da948000",
-      "usb + power"
-    ],
-    [
-      "41905d77-ea62-40a6-b487-afb85a02e37c",
-      "i2c connections"
+      "3910099e-affd-4841-a7f5-4cc395588f19",
+      "minimum_system"
     ]
   ],
   "text_variables": {}

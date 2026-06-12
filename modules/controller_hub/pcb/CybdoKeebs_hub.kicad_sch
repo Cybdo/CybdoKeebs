@@ -1871,6 +1871,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -2335,7 +2418,7 @@
 		(uuid "051abbb5-1aab-47f2-a8d7-283ac8d7471f")
 	)
 	(junction
-		(at 260.35 40.64)
+		(at 232.41 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0793e09a-0367-4fdf-9fba-e34438e42dd2")
@@ -2365,12 +2448,6 @@
 		(uuid "123f0e28-ffe6-40d2-9b71-da483186d7ee")
 	)
 	(junction
-		(at 190.5 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2161f820-7009-41f3-8f00-83e1d7780c32")
-	)
-	(junction
 		(at 81.28 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2383,7 +2460,7 @@
 		(uuid "28fc45e3-8aa2-4a10-97d4-5bfd19190c34")
 	)
 	(junction
-		(at 232.41 40.64)
+		(at 204.47 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a0fed8b-cd1e-4200-ac4a-75c3b4cb57ae")
@@ -2443,28 +2520,22 @@
 		(uuid "4f6dc7a3-03ac-49b5-8334-107987bdc80f")
 	)
 	(junction
-		(at 274.32 53.34)
+		(at 246.38 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5340437f-e171-4ea7-8025-10b6ee63184b")
 	)
 	(junction
-		(at 218.44 53.34)
+		(at 190.5 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "555773c8-2297-4cf0-aadc-6487934cb6ae")
 	)
 	(junction
-		(at 246.38 40.64)
+		(at 218.44 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c7637ff-6493-45b3-ac2b-5c522b30078d")
-	)
-	(junction
-		(at 204.47 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7341df96-56af-402f-98c7-fb88e7097aac")
 	)
 	(junction
 		(at 116.84 71.12)
@@ -2479,16 +2550,10 @@
 		(uuid "7b1da7c0-1c31-4c1f-afa9-86206d0d87cb")
 	)
 	(junction
-		(at 246.38 53.34)
+		(at 218.44 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c0f967d-a1ca-4e1f-a00b-9714702481b9")
-	)
-	(junction
-		(at 176.53 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8acabbde-b9f0-4975-8c85-e6cbf9bef26c")
 	)
 	(junction
 		(at 81.28 53.34)
@@ -2503,7 +2568,7 @@
 		(uuid "951a4283-97cc-4a4f-86e8-f859fd72ebb1")
 	)
 	(junction
-		(at 218.44 40.64)
+		(at 190.5 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9650a343-fcdf-4ad7-90da-e33cdb45d9b5")
@@ -2521,37 +2586,25 @@
 		(uuid "9de3092a-0fb4-4835-aa1d-372046d51c55")
 	)
 	(junction
-		(at 190.5 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1277377-5dbe-40c5-8246-b7c1abf781c9")
-	)
-	(junction
-		(at 162.56 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4a024cf-25ee-4a42-a54e-1bfe2f2af2ae")
-	)
-	(junction
 		(at 50.8 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab18fc41-92ce-4b87-b3f4-333cbf6d2c08")
 	)
 	(junction
-		(at 232.41 53.34)
+		(at 204.47 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4a96700-36b9-4e36-b80e-bfc5fa89d35d")
 	)
 	(junction
-		(at 260.35 53.34)
+		(at 232.41 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b60b3c25-ac84-4bdc-82f8-19b876bc8b85")
 	)
 	(junction
-		(at 204.47 40.64)
+		(at 176.53 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7fa6224-70bd-44d9-ae7d-b0b986e32591")
@@ -2573,12 +2626,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6f92d02-571f-4c52-89bd-b0142907543f")
-	)
-	(junction
-		(at 176.53 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb9552b2-43c9-40e5-8dd6-cf07d9de7916")
 	)
 	(junction
 		(at 135.89 71.12)
@@ -2647,8 +2694,8 @@
 		(uuid "a316d470-27cc-4f60-bdaf-6c6dd35dabe7")
 	)
 	(no_connect
-		(at 168.91 135.89)
-		(uuid "b52b3631-a077-4139-94a3-30dd90f20442")
+		(at 168.91 128.27)
+		(uuid "b3365096-8b9a-4686-b574-7e5075a1629e")
 	)
 	(no_connect
 		(at 168.91 158.75)
@@ -2676,7 +2723,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 50.8) (xy 204.47 53.34)
+			(xy 176.53 50.8) (xy 176.53 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2686,7 +2733,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 40.64) (xy 260.35 40.64)
+			(xy 218.44 40.64) (xy 232.41 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2746,13 +2793,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 130.81) (xy 198.12 130.81)
+			(xy 44.45 177.8) (xy 46.99 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "11a0d657-24c9-4b27-a610-727a2d9f5f2b")
+		(uuid "11b1c2e2-700c-458c-a414-05f36ba899d4")
 	)
 	(wire
 		(pts
@@ -2846,33 +2893,13 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 50.8) (xy 190.5 53.34)
+			(xy 168.91 130.81) (xy 198.12 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "218ada12-61b7-405c-80ab-4e3cec46589e")
-	)
-	(wire
-		(pts
-			(xy 190.5 40.64) (xy 204.47 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21b4d3ab-8db4-4715-92d2-8acb3157fb3c")
-	)
-	(wire
-		(pts
-			(xy 176.53 50.8) (xy 176.53 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21e4cc3d-87b6-4d60-9407-a86af2fb2b07")
+		(uuid "21a34583-a1e2-4855-aa2f-74a015ea79ff")
 	)
 	(wire
 		(pts
@@ -2896,7 +2923,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 40.64) (xy 274.32 43.18)
+			(xy 246.38 40.64) (xy 246.38 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2906,7 +2933,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 40.64) (xy 260.35 43.18)
+			(xy 232.41 40.64) (xy 232.41 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2916,7 +2943,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 50.8) (xy 274.32 53.34)
+			(xy 246.38 50.8) (xy 246.38 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2946,27 +2973,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 177.8) (xy 44.45 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30a31bf4-7d38-4193-92ed-681626931710")
-	)
-	(wire
-		(pts
-			(xy 162.56 50.8) (xy 162.56 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "326fae5f-5c3c-411f-9d1c-ea7da4f10216")
-	)
-	(wire
-		(pts
-			(xy 218.44 40.64) (xy 218.44 43.18)
+			(xy 190.5 40.64) (xy 190.5 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2986,7 +2993,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 40.64) (xy 246.38 40.64)
+			(xy 204.47 40.64) (xy 218.44 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3046,16 +3053,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 177.8) (xy 59.69 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cdfbdb1-95eb-45e5-93af-bffb78766e94")
-	)
-	(wire
-		(pts
 			(xy 168.91 118.11) (xy 198.12 118.11)
 		)
 		(stroke
@@ -3106,7 +3103,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 40.64) (xy 218.44 40.64)
+			(xy 176.53 40.64) (xy 190.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3146,7 +3143,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 40.64) (xy 274.32 40.64)
+			(xy 232.41 40.64) (xy 246.38 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3186,16 +3183,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 40.64) (xy 176.53 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51f33824-bbcc-40fe-999d-789ed6e2378e")
-	)
-	(wire
-		(pts
 			(xy 140.97 71.12) (xy 140.97 72.39)
 		)
 		(stroke
@@ -3226,6 +3213,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 177.8) (xy 59.69 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e97c8a5-91cc-4758-9fe3-c77d45fe6d97")
+	)
+	(wire
+		(pts
 			(xy 138.43 71.12) (xy 140.97 71.12)
 		)
 		(stroke
@@ -3233,16 +3230,6 @@
 			(type default)
 		)
 		(uuid "5f0f68c5-afe9-4947-a015-85469e10f424")
-	)
-	(wire
-		(pts
-			(xy 162.56 43.18) (xy 162.56 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60ad0f78-7290-429a-a7a3-69333097ed77")
 	)
 	(wire
 		(pts
@@ -3306,7 +3293,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 40.64) (xy 153.67 40.64)
+			(xy 153.67 40.64) (xy 176.53 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3323,16 +3310,6 @@
 			(type default)
 		)
 		(uuid "6c88ea2d-7dca-4a0d-b025-f68ce98588f8")
-	)
-	(wire
-		(pts
-			(xy 176.53 53.34) (xy 190.5 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d5be33d-832a-4ad2-ad51-9fa904eaef3b")
 	)
 	(wire
 		(pts
@@ -3376,7 +3353,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 53.34) (xy 246.38 53.34)
+			(xy 204.47 53.34) (xy 218.44 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3396,7 +3373,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 40.64) (xy 232.41 40.64)
+			(xy 190.5 40.64) (xy 204.47 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3406,7 +3383,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 40.64) (xy 204.47 43.18)
+			(xy 176.53 40.64) (xy 176.53 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3566,7 +3543,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 40.64) (xy 246.38 43.18)
+			(xy 218.44 40.64) (xy 218.44 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3606,7 +3583,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 53.34) (xy 218.44 53.34)
+			(xy 176.53 53.34) (xy 190.5 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3623,26 +3600,6 @@
 			(type default)
 		)
 		(uuid "a2232e50-f671-42d1-89ac-b0e0375b765e")
-	)
-	(wire
-		(pts
-			(xy 190.5 53.34) (xy 204.47 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a23c7798-a784-406c-a7fd-d30fd36debe7")
-	)
-	(wire
-		(pts
-			(xy 168.91 128.27) (xy 198.12 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a25694a5-a842-4dbf-a5c5-d10da5b26dc4")
 	)
 	(wire
 		(pts
@@ -3666,17 +3623,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 133.35) (xy 198.12 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a38bd297-34da-49f5-a3be-62711793fa7b")
-	)
-	(wire
-		(pts
-			(xy 260.35 53.34) (xy 274.32 53.34)
+			(xy 232.41 53.34) (xy 246.38 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3736,7 +3683,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 40.64) (xy 232.41 43.18)
+			(xy 204.47 40.64) (xy 204.47 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3806,7 +3753,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 50.8) (xy 260.35 53.34)
+			(xy 232.41 50.8) (xy 232.41 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3843,16 +3790,6 @@
 			(type default)
 		)
 		(uuid "b67c5e3f-3603-46e2-8d5b-b6961cfc27de")
-	)
-	(wire
-		(pts
-			(xy 176.53 40.64) (xy 190.5 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6f13ac4-d90b-420b-8209-02b2ecfa78f6")
 	)
 	(wire
 		(pts
@@ -3896,16 +3833,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 40.64) (xy 190.5 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5bac6c-0c67-49a7-bdb8-b6f30738746f")
-	)
-	(wire
-		(pts
 			(xy 81.28 40.64) (xy 95.25 40.64)
 		)
 		(stroke
@@ -3913,6 +3840,16 @@
 			(type default)
 		)
 		(uuid "bbe42c0a-39a6-48dd-9da1-fe542d454b4b")
+	)
+	(wire
+		(pts
+			(xy 168.91 135.89) (xy 198.12 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcc9e2db-c5f1-465b-bb50-81bf2ca170f5")
 	)
 	(wire
 		(pts
@@ -3936,17 +3873,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 184.15) (xy 52.07 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3ea431e-fdd3-47ec-b190-2cd0a61862e6")
-	)
-	(wire
-		(pts
-			(xy 218.44 50.8) (xy 218.44 53.34)
+			(xy 190.5 50.8) (xy 190.5 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3966,7 +3893,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 53.34) (xy 232.41 53.34)
+			(xy 190.5 53.34) (xy 204.47 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4006,7 +3933,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 53.34) (xy 260.35 53.34)
+			(xy 218.44 53.34) (xy 232.41 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4086,7 +4013,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 50.8) (xy 246.38 53.34)
+			(xy 218.44 50.8) (xy 218.44 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4116,17 +4043,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 40.64) (xy 176.53 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8123f2a-230e-48b1-8c22-447b161274ef")
-	)
-	(wire
-		(pts
-			(xy 232.41 50.8) (xy 232.41 53.34)
+			(xy 204.47 50.8) (xy 204.47 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4146,7 +4063,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 53.34) (xy 274.32 57.15)
+			(xy 246.38 53.34) (xy 246.38 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4156,7 +4073,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 171.45) (xy 52.07 172.72)
+			(xy 52.07 171.45) (xy 52.07 173.99)
 		)
 		(stroke
 			(width 0)
@@ -4176,6 +4093,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 181.61) (xy 52.07 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1d1d7b8-6691-4e02-b732-2f26b1831cc8")
+	)
+	(wire
+		(pts
 			(xy 50.8 63.5) (xy 50.8 67.31)
 		)
 		(stroke
@@ -4186,16 +4113,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 53.34) (xy 162.56 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e827feb3-7384-4b63-89ad-8eb736871d53")
-	)
-	(wire
-		(pts
 			(xy 50.8 67.31) (xy 50.8 82.55)
 		)
 		(stroke
@@ -4203,6 +4120,16 @@
 			(type default)
 		)
 		(uuid "ea3c4c0b-e96f-492d-930a-8cdb30ca8f32")
+	)
+	(wire
+		(pts
+			(xy 168.91 133.35) (xy 198.12 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b9ece1-8a96-47a1-82ea-f17116e2cdf8")
 	)
 	(wire
 		(pts
@@ -4375,16 +4302,17 @@
 		(uuid "e7eed75e-ba81-40b3-ab73-6b60e9a8f97a")
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 162.56 46.99 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 26.67 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "06ff3e05-ca21-4093-8b64-195e97a68e7c")
-		(property "Reference" "C10"
-			(at 166.37 45.7199 0)
+		(fields_autoplaced yes)
+		(uuid "08e96c1c-7aab-407f-98c4-eaeaf25d298c")
+		(property "Reference" "H1"
+			(at 29.21 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,8 +4320,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 166.37 48.2599 0)
+		(property "Value" "MountingHole"
+			(at 29.21 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4401,8 +4329,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 163.5252 50.8 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 26.67 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4339,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 46.99 0)
+			(at 26.67 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,25 +4347,19 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 162.56 46.99 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 26.67 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "16c367de-e61f-4352-a71c-792c1605a501")
-		)
-		(pin "2"
-			(uuid "813ea69b-4f33-4175-94e7-b5ab53e43cb9")
 		)
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C10")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -4471,7 +4393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 234.95 138.43 0)
 			(effects
 				(font
@@ -4522,7 +4444,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a47e81a-6855-4dfd-9bbb-678e5c53a578")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR02"
 			(at 44.45 185.42 0)
 			(effects
 				(font
@@ -4572,7 +4494,71 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR027")
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 48.26 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "25268fc5-3909-462b-86ea-658dfc5e2ee0")
+		(property "Reference" "H3"
+			(at 50.8 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 50.8 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 48.26 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "CybdoKeebs_hub"
+				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -4606,7 +4592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 269.748 149.86 90)
 			(effects
 				(font
@@ -4658,7 +4644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31dad0e3-0904-4cab-b990-6e7253faed5e")
-		(property "Reference" "R9"
+		(property "Reference" "R6"
 			(at 242.57 148.5899 0)
 			(effects
 				(font
@@ -4676,7 +4662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 241.808 149.86 90)
 			(effects
 				(font
@@ -4712,7 +4698,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "R9")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4728,7 +4714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3748c38f-e9b3-4d99-b5dd-30a2fe99ec10")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR01"
 			(at 22.86 194.31 0)
 			(effects
 				(font
@@ -4778,7 +4764,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR026")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -4794,7 +4780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3aadd665-a3eb-4773-940e-1eebf6ef386d")
-		(property "Reference" "C21"
+		(property "Reference" "C8"
 			(at 99.06 45.7199 0)
 			(effects
 				(font
@@ -4848,7 +4834,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C21")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4864,7 +4850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e49a230-747a-4349-8440-71498b8d1308")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR04"
 			(at 50.8 102.87 0)
 			(effects
 				(font
@@ -4914,7 +4900,7 @@
 		(instances
 			(project ""
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR020")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -4922,7 +4908,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 46.99 0)
+		(at 190.5 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4930,8 +4916,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f7cf451-9bf6-424a-9a3b-d55427bd6f13")
-		(property "Reference" "C14"
-			(at 222.25 45.7199 0)
+		(property "Reference" "C10"
+			(at 194.31 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4940,7 +4926,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 222.25 48.2599 0)
+			(at 194.31 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,7 +4935,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 219.4052 50.8 0)
+			(at 191.4652 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4958,7 +4944,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 46.99 0)
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4967,7 +4953,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 46.99 0)
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +4970,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C14")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -4992,7 +4978,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 274.32 46.99 0)
+		(at 246.38 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5000,8 +4986,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43edaf3c-02d1-4aa2-bbde-0634d682147c")
-		(property "Reference" "C18"
-			(at 278.13 45.7199 0)
+		(property "Reference" "C14"
+			(at 250.19 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5010,7 +4996,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 278.13 48.2599 0)
+			(at 250.19 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,7 +5005,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 275.2852 50.8 0)
+			(at 247.3452 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +5014,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 274.32 46.99 0)
+			(at 246.38 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5037,7 +5023,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 274.32 46.99 0)
+			(at 246.38 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5054,7 +5040,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C18")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -5070,7 +5056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "441adb51-55a9-4a43-949c-8a526e9e46b5")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR014"
 			(at 267.97 163.83 0)
 			(effects
 				(font
@@ -5120,7 +5106,71 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR025")
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 26.67 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4584c88c-2ebb-4a6c-83cc-eed6903799a7")
+		(property "Reference" "H2"
+			(at 29.21 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 29.21 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 26.67 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 26.67 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 26.67 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -5136,7 +5186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51f2960b-25d2-4cba-bf81-bf9075153375")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 242.57 125.7299 0)
 			(effects
 				(font
@@ -5154,7 +5204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 241.808 127 90)
 			(effects
 				(font
@@ -5190,7 +5240,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -5206,7 +5256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5592eaf3-bbcf-4a56-9366-be829b939d48")
-		(property "Reference" "R5"
+		(property "Reference" "R2"
 			(at 81.28 60.96 90)
 			(effects
 				(font
@@ -5222,7 +5272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 81.28 69.088 90)
 			(effects
 				(font
@@ -5258,7 +5308,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "R5")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -5274,7 +5324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "588562b6-6770-4684-8a3f-a8e6ccd097cb")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR012"
 			(at 240.03 124.46 0)
 			(effects
 				(font
@@ -5324,7 +5374,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR024")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -5340,7 +5390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea0e335-25e7-463d-8ac1-4da184b49e8c")
-		(property "Reference" "C8"
+		(property "Reference" "C1"
 			(at 30.48 163.83 90)
 			(effects
 				(font
@@ -5392,7 +5442,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C8")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -5408,7 +5458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68c8513f-6826-4725-b6f5-e1bc94b97330")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR03"
 			(at 50.8 67.31 0)
 			(effects
 				(font
@@ -5458,7 +5508,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR022")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -5474,7 +5524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6daed8ac-cbda-4534-8ef3-90edad243fa1")
-		(property "Reference" "R10"
+		(property "Reference" "R1"
 			(at 69.85 177.8 90)
 			(effects
 				(font
@@ -5490,7 +5540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 69.85 182.372 90)
 			(effects
 				(font
@@ -5526,7 +5576,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "R10")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -5542,7 +5592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74819aaa-1c78-4a6e-b999-d92a481d0092")
-		(property "Reference" "C7"
+		(property "Reference" "C3"
 			(at 54.61 85.0899 0)
 			(effects
 				(font
@@ -5596,7 +5646,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C7")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -5612,7 +5662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e4495be-89dd-45aa-9882-cf7ec22bec8a")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR010"
 			(at 137.16 184.15 0)
 			(effects
 				(font
@@ -5662,7 +5712,7 @@
 		(instances
 			(project ""
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR019")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -5738,7 +5788,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 46.99 0)
+		(at 176.53 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5746,8 +5796,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82f6efd0-cfb2-4b9c-97a6-6e3abd92189e")
-		(property "Reference" "C13"
-			(at 208.28 45.7199 0)
+		(property "Reference" "C9"
+			(at 180.34 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +5806,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 208.28 48.2599 0)
+			(at 180.34 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5765,7 +5815,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 205.4352 50.8 0)
+			(at 177.4952 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5774,7 +5824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 46.99 0)
+			(at 176.53 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5783,7 +5833,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 46.99 0)
+			(at 176.53 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5800,7 +5850,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C13")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -5834,7 +5884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 262.89 138.43 0)
 			(effects
 				(font
@@ -5886,7 +5936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89e22b94-bc1c-4260-9a82-2504fcea59cd")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR09"
 			(at 95.25 60.96 0)
 			(effects
 				(font
@@ -5936,7 +5986,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR032")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -5952,7 +6002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92e1e8d7-5f18-4aba-b1ab-3d947e6a84a4")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR011"
 			(at 153.67 40.64 0)
 			(effects
 				(font
@@ -6002,77 +6052,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 190.5 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98a7f532-175c-4816-8c89-24ab4a16d55b")
-		(property "Reference" "C12"
-			(at 194.31 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 194.31 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 191.4652 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 190.5 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 190.5 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "47b03306-7a98-43f9-98b8-a28605ebd088")
-		)
-		(pin "2"
-			(uuid "f6f0c5be-c926-4162-af94-32873b7a0a72")
-		)
-		(instances
-			(project "CybdoKeebs_hub"
-				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C12")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -6088,7 +6068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b99c2b5-2569-4b48-8ddc-eae2cf67149e")
-		(property "Reference" "C20"
+		(property "Reference" "C6"
 			(at 85.09 45.7199 0)
 			(effects
 				(font
@@ -6142,7 +6122,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C20")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -6157,7 +6137,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a11194ba-7757-4cef-9045-f0cb91c552ba")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR05"
 			(at 59.69 185.42 0)
 			(effects
 				(font
@@ -6207,7 +6187,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR028")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6223,7 +6203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a50b2341-c8f2-44ac-8e5e-76e578902ecf")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR07"
 			(at 64.77 41.91 0)
 			(effects
 				(font
@@ -6273,7 +6253,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR031")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -6289,7 +6269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a77d2c4f-1933-46cf-ba92-4939e69e23a4")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR08"
 			(at 92.71 85.09 0)
 			(effects
 				(font
@@ -6339,7 +6319,7 @@
 		(instances
 			(project ""
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR021")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6422,7 +6402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b054073b-5e72-4242-8ad9-92f7ee16448a")
-		(property "Reference" "C5"
+		(property "Reference" "C7"
 			(at 96.52 72.3899 0)
 			(effects
 				(font
@@ -6476,7 +6456,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C5")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -6492,7 +6472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0fe48c2-6133-43dc-9980-1a6f8906c9e8")
-		(property "Reference" "C6"
+		(property "Reference" "C4"
 			(at 67.31 85.0899 0)
 			(effects
 				(font
@@ -6546,7 +6526,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C6")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6801,7 +6781,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 246.38 46.99 0)
+		(at 218.44 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6809,8 +6789,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8678663-053f-4330-8ad8-ef23bdcecefe")
-		(property "Reference" "C16"
-			(at 250.19 45.7199 0)
+		(property "Reference" "C12"
+			(at 222.25 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6819,7 +6799,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 250.19 48.2599 0)
+			(at 222.25 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6828,7 +6808,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 247.3452 50.8 0)
+			(at 219.4052 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6837,7 +6817,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 246.38 46.99 0)
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6846,7 +6826,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 246.38 46.99 0)
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6863,7 +6843,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C16")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -6897,7 +6877,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 269.748 127 90)
 			(effects
 				(font
@@ -6941,15 +6921,15 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal_GND24")
-		(at 52.07 177.8 0)
+		(at 52.07 177.8 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c818ebab-4245-4d76-9998-81e5a1b3c0e8")
-		(property "Reference" "Y2"
-			(at 52.07 165.354 0)
+		(property "Reference" "Y1"
+			(at 52.07 185.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6957,14 +6937,14 @@
 			)
 		)
 		(property "Value" "ABM8-272-T3"
-			(at 52.07 167.894 0)
+			(at 52.07 188.468 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm"
 			(at 52.07 177.8 0)
 			(effects
 				(font
@@ -7006,7 +6986,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "Y2")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -7022,7 +7002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c97cdbfa-0e6c-4c1b-ba71-0184ea601288")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR06"
 			(at 63.5 82.55 0)
 			(effects
 				(font
@@ -7072,7 +7052,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR023")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -7080,7 +7060,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 260.35 46.99 0)
+		(at 232.41 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7088,8 +7068,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d402305f-3493-455e-b2f8-faa3b5683b98")
-		(property "Reference" "C17"
-			(at 264.16 45.7199 0)
+		(property "Reference" "C13"
+			(at 236.22 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7098,7 +7078,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 264.16 48.2599 0)
+			(at 236.22 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7107,7 +7087,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 261.3152 50.8 0)
+			(at 233.3752 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7116,7 +7096,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 46.99 0)
+			(at 232.41 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7125,7 +7105,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 260.35 46.99 0)
+			(at 232.41 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7142,77 +7122,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 176.53 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd724c8f-93dd-47d2-89f7-5c357838a737")
-		(property "Reference" "C11"
-			(at 180.34 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 180.34 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 177.4952 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 176.53 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9865d07a-88f4-4bbc-b8ee-608e5485b7e2")
-		)
-		(pin "2"
-			(uuid "e19add3e-b1cc-451c-a751-c8dca4ecc08f")
-		)
-		(instances
-			(project "CybdoKeebs_hub"
-				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7228,7 +7138,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df73acaf-09fe-48ca-89b1-d37ad008cc48")
-		(property "Reference" "C9"
+		(property "Reference" "C2"
 			(at 30.48 176.53 90)
 			(effects
 				(font
@@ -7280,7 +7190,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C9")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -7313,7 +7223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:INDC1608X95N"
 			(at 74.93 86.36 0)
 			(effects
 				(font
@@ -7357,7 +7267,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 232.41 46.99 0)
+		(at 204.47 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7365,8 +7275,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eaa7125c-62b6-427c-8fe7-c84b32919488")
-		(property "Reference" "C15"
-			(at 236.22 45.7199 0)
+		(property "Reference" "C11"
+			(at 208.28 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7375,7 +7285,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 236.22 48.2599 0)
+			(at 208.28 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,7 +7294,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 233.3752 50.8 0)
+			(at 205.4352 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7393,7 +7303,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 232.41 46.99 0)
+			(at 204.47 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7402,7 +7312,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 232.41 46.99 0)
+			(at 204.47 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7419,7 +7329,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C15")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7427,7 +7337,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 274.32 57.15 0)
+		(at 246.38 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7435,8 +7345,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa9c2886-934f-4b4d-87c4-c301c9b5ace1")
-		(property "Reference" "#PWR030"
-			(at 274.32 63.5 0)
+		(property "Reference" "#PWR013"
+			(at 246.38 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7355,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 274.32 62.23 0)
+			(at 246.38 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7453,7 +7363,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 274.32 57.15 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7462,7 +7372,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 57.15 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,7 +7381,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 274.32 57.15 0)
+			(at 246.38 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7485,7 +7395,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "#PWR030")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -7500,7 +7410,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffaeef8d-949d-496d-99b6-9c2b39222ca8")
-		(property "Reference" "C19"
+		(property "Reference" "C5"
 			(at 71.12 45.7199 0)
 			(effects
 				(font
@@ -7554,7 +7464,7 @@
 		(instances
 			(project "CybdoKeebs_hub"
 				(path "/9919a4c0-a87a-4146-b547-4b221dff87d5"
-					(reference "C19")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -7685,7 +7595,7 @@
 			)
 		)
 		(pin "BUS4_EN" bidirectional
-			(at 198.12 128.27 180)
+			(at 198.12 130.81 180)
 			(uuid "f0255255-1b00-4237-9a66-684a7c9bcced")
 			(effects
 				(font
@@ -7695,7 +7605,7 @@
 			)
 		)
 		(pin "BUS4_SCL" bidirectional
-			(at 198.12 133.35 180)
+			(at 198.12 135.89 180)
 			(uuid "7aad5eeb-9578-4bf5-8477-bb2efd69a4a4")
 			(effects
 				(font
@@ -7705,7 +7615,7 @@
 			)
 		)
 		(pin "BUS4_SDA" bidirectional
-			(at 198.12 130.81 180)
+			(at 198.12 133.35 180)
 			(uuid "417464e9-d2eb-4dae-b6af-572ebb8a4aa9")
 			(effects
 				(font
@@ -7745,7 +7655,7 @@
 			)
 		)
 		(pin "BUS6_EN" bidirectional
-			(at 198.12 151.13 180)
+			(at 198.12 146.05 180)
 			(uuid "4a72632d-a2e2-426e-9106-7661ed0b2896")
 			(effects
 				(font
@@ -7755,7 +7665,7 @@
 			)
 		)
 		(pin "BUS6_SCL" bidirectional
-			(at 198.12 148.59 180)
+			(at 198.12 151.13 180)
 			(uuid "55399ff6-2865-48d1-a330-7072748ab440")
 			(effects
 				(font
@@ -7765,7 +7675,7 @@
 			)
 		)
 		(pin "BUS6_SDA" bidirectional
-			(at 198.12 146.05 180)
+			(at 198.12 148.59 180)
 			(uuid "9ca796ef-0ed0-4779-bcf4-1ba2e489d26a")
 			(effects
 				(font
