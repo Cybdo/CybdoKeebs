@@ -3634,30 +3634,6 @@
 			)
 		)
 	)
-	(global_label "GPIO28"
-		(shape bidirectional)
-		(at 128.27 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3af4d0f1-3481-4f70-b823-9f4581a5506a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.27 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO1"
 		(shape bidirectional)
 		(at 66.04 34.29 90)
@@ -3802,30 +3778,6 @@
 			)
 		)
 	)
-	(global_label "GPIO26"
-		(shape bidirectional)
-		(at 123.19 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "66e24709-6ca5-4afa-afbe-bfe6bdd2f46a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.19 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO20"
 		(shape bidirectional)
 		(at 191.77 34.29 90)
@@ -3898,30 +3850,6 @@
 			)
 		)
 	)
-	(global_label "GPIO3"
-		(shape bidirectional)
-		(at 62.23 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "845cd9fa-2900-4fbb-a317-30e4388002bf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 13.0787 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO9"
 		(shape bidirectional)
 		(at 39.37 119.38 180)
@@ -3943,30 +3871,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "GPIO23"
-		(shape bidirectional)
-		(at 113.03 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8cc03d97-ad67-4630-9a3f-a8910b79349c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -3994,54 +3898,6 @@
 			)
 		)
 	)
-	(global_label "GPIO24"
-		(shape bidirectional)
-		(at 115.57 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b359e738-7b2d-40d0-878e-0f37f0220ed4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO25"
-		(shape bidirectional)
-		(at 118.11 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "df1fb2a7-1c1c-40a0-bde4-0f66a1292af5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GPIO18"
 		(shape bidirectional)
 		(at 219.71 34.29 90)
@@ -4055,54 +3911,6 @@
 		(uuid "e4ed4379-88d2-407c-a20c-37ebc2f1f869")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 219.71 23.2992 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO27"
-		(shape bidirectional)
-		(at 125.73 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e66692d4-cd2d-4941-bae2-570e71a21320")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.73 11.8692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO29"
-		(shape bidirectional)
-		(at 130.81 22.86 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ec172849-c2b5-4409-b5ec-0efe6c049343")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 11.8692 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
