@@ -457,502 +457,622 @@
 		)
 	)
 	(junction
-		(at 203.2 119.38)
+		(at 217.17 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0318083d-dd75-4eed-964a-4dc3b373182c")
-	)
-	(junction
-		(at 119.38 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03b93cab-e22b-4202-94fb-614e07e37647")
-	)
-	(junction
-		(at 175.26 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "04c215cb-6616-4547-b78c-965ab2276251")
-	)
-	(junction
-		(at 177.8 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07170406-2425-47c8-b14c-7f4616607b68")
-	)
-	(junction
-		(at 135.89 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0b2a0d6b-acce-4d74-9cdf-b37a269e6dee")
-	)
-	(junction
-		(at 217.17 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d0e2d79-c03c-4705-99de-c8906a53fd88")
-	)
-	(junction
-		(at 121.92 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e4866b3-5e6c-4453-a79a-0437e0d8cab6")
-	)
-	(junction
-		(at 177.8 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f593df6-9f9f-43b8-9a00-27f18754b7c8")
-	)
-	(junction
-		(at 147.32 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12db3260-4f6a-43c1-b896-e6a21a10639c")
-	)
-	(junction
-		(at 121.92 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "165fafdc-1cb5-4cbb-b488-84bd6db8c38d")
-	)
-	(junction
-		(at 161.29 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20d8424a-2a6d-4b34-9c99-c0035b1faffb")
-	)
-	(junction
-		(at 105.41 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "213c0f77-cde3-4bb7-a272-978f101740d4")
-	)
-	(junction
-		(at 77.47 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "219743f5-3a3d-404c-a88b-40bce41d2bb2")
-	)
-	(junction
-		(at 45.72 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24583307-1e8d-41da-a4f0-d729793811db")
-	)
-	(junction
-		(at 144.78 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25190e28-d554-4135-b406-89db1b4d8415")
-	)
-	(junction
-		(at 119.38 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2adee407-b299-4603-9aec-e2abc6505c7a")
-	)
-	(junction
-		(at 147.32 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2f3660d6-e061-4d32-ba92-c2afd96f6cc7")
-	)
-	(junction
-		(at 91.44 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "30c82b80-3339-43bf-ae56-5b05879edd9d")
-	)
-	(junction
-		(at 77.47 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "323e1bc3-68df-40f9-907b-5245dbb12ec8")
+		(uuid "00be5f81-d64b-462f-84b1-e04282e66265")
 	)
 	(junction
 		(at 231.14 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3546b510-f27a-490e-9463-509f6a42416a")
-	)
-	(junction
-		(at 147.32 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a3f156b-d9f1-4fbb-9801-4a6155bab43e")
-	)
-	(junction
-		(at 105.41 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a942f17-d59b-4f5e-b793-bd5f5e6c0ced")
-	)
-	(junction
-		(at 175.26 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3b5014bc-c3d6-4b67-8a76-1c04395e2ccd")
-	)
-	(junction
-		(at 217.17 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3dc6fdf4-cd6b-45d5-aa4c-59a368a7835a")
-	)
-	(junction
-		(at 77.47 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b5b5abb-fc32-4fdd-b466-6c920e3f469d")
-	)
-	(junction
-		(at 161.29 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c7340ab-cea3-4ba1-b91c-59b2914d4faf")
-	)
-	(junction
-		(at 189.23 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d5e145a-d6c9-4750-b0b1-4f3fd2390d9c")
-	)
-	(junction
-		(at 105.41 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d6475a0-0d27-42ba-ab46-cedcbb315a19")
-	)
-	(junction
-		(at 203.2 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ddd2b29-fc8d-4096-b1db-ffefeea8c0e7")
-	)
-	(junction
-		(at 163.83 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4fe14874-388a-4107-8b9e-9141879f8219")
-	)
-	(junction
-		(at 191.77 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5710e927-a872-4190-a6ac-545f193191be")
-	)
-	(junction
-		(at 175.26 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "657ce28e-5882-45e9-b649-8c5ae24fdb46")
-	)
-	(junction
-		(at 66.04 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cb1a267-4bd4-4c3a-bf9c-f7ec9fb63724")
-	)
-	(junction
-		(at 119.38 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "794dde9a-1105-4cff-a3fc-d253089027e5")
-	)
-	(junction
-		(at 133.35 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86c382aa-188b-424e-b2be-db8c6324c666")
-	)
-	(junction
-		(at 119.38 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "870bdae0-e9d4-4465-9a9a-05b93cf42ccb")
-	)
-	(junction
-		(at 91.44 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "87416705-d782-435e-b514-c0dff507108c")
-	)
-	(junction
-		(at 91.44 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "94f94e44-30f1-4b3a-91c4-b72f74b86923")
-	)
-	(junction
-		(at 191.77 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95f7f51a-be59-4962-b637-dd19d5f0a71f")
-	)
-	(junction
-		(at 45.72 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9708ee46-9ef7-4420-9338-77a5b572a602")
-	)
-	(junction
-		(at 189.23 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "977b28bc-b433-41b0-8c36-d7a871647ab6")
-	)
-	(junction
-		(at 66.04 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99560303-dcf8-4f54-aed2-83d46aa77bb6")
-	)
-	(junction
-		(at 177.8 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "999a7657-85fe-4ac9-812e-a015678698b8")
-	)
-	(junction
-		(at 205.74 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99f13949-3555-4377-84f9-c2a23fbff51b")
-	)
-	(junction
-		(at 91.44 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9d5b57e3-cb86-40af-8fe6-26d59554546a")
-	)
-	(junction
-		(at 133.35 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a16382c6-e748-40a5-8829-51e0dcda8421")
-	)
-	(junction
-		(at 66.04 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a80cbf0e-9043-4339-aaf1-e514bd91d340")
-	)
-	(junction
-		(at 80.01 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab3ffaad-5848-4346-a1b2-714ba40a73d7")
-	)
-	(junction
-		(at 93.98 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b045c587-e7cd-4b8e-a89e-286d8266529d")
-	)
-	(junction
-		(at 231.14 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b5f70103-f580-450c-8894-21da99d8e1ee")
-	)
-	(junction
-		(at 133.35 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b70d52d6-6176-4f0c-9d01-49295bb39576")
-	)
-	(junction
-		(at 241.3 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b73143fe-dbb5-4857-aad9-323ee33d9703")
-	)
-	(junction
-		(at 163.83 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "beb1669c-8a2c-4396-b561-f5df668f5116")
-	)
-	(junction
-		(at 217.17 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c309c780-f459-4713-9279-f62b4d3b30d3")
+		(uuid "044dec3b-7a61-44be-9583-0913f5e5c949")
 	)
 	(junction
 		(at 77.47 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4c9cdbc-fd1e-496c-b914-bc7c272bcf6e")
+		(uuid "057abd31-87bd-4b28-b8e4-f914c47da52b")
 	)
 	(junction
-		(at 135.89 91.44)
+		(at 57.15 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4cd2fb1-4c2b-46f7-972e-f210f1633636")
+		(uuid "06be4c4f-69dd-41c1-8b62-b550228efcd1")
 	)
 	(junction
-		(at 45.72 110.49)
+		(at 119.38 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4dd9d33-6850-47f6-8aaf-0e5fff41f8ce")
+		(uuid "16095632-e299-462e-955b-4d1443cb531b")
 	)
 	(junction
-		(at 191.77 91.44)
+		(at 147.32 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4ea201d-4ae2-46fa-a382-859faf2f1b6f")
+		(uuid "181077e2-59e2-4dd7-a405-16691ffe9659")
 	)
 	(junction
-		(at 189.23 100.33)
+		(at 121.92 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c75388b5-178f-462c-9411-fb9ba53436bf")
+		(uuid "1997eb63-57f2-4d85-b8bb-ca44ddc5e18d")
 	)
 	(junction
-		(at 161.29 77.47)
+		(at 191.77 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c7ecc8ec-9d3c-4cca-833e-1d79c69210cc")
+		(uuid "19d82a92-4675-4181-9213-4f7056aa32c8")
 	)
 	(junction
-		(at 91.44 143.51)
+		(at 177.8 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c7f0255f-cb73-457b-bea5-83882a4ae27a")
+		(uuid "1cce30c5-3c8e-46bb-a79c-b4e7fea4fc46")
 	)
 	(junction
-		(at 149.86 68.58)
+		(at 205.74 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cb53ba89-251c-41c1-9c77-36547c4d74a6")
+		(uuid "21c24059-5ae7-4ccb-9ca6-4ec051e60537")
 	)
 	(junction
-		(at 105.41 119.38)
+		(at 161.29 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cecb63da-1462-4a5f-b8f3-a8505086d4d4")
+		(uuid "22721949-f56f-4e67-b5a6-8652a2c688fd")
+	)
+	(junction
+		(at 175.26 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22ed89c1-ed4e-42ba-a123-c6155f0a8e0c")
+	)
+	(junction
+		(at 203.2 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26576cc4-2e69-4101-8ba6-83e48db8495d")
+	)
+	(junction
+		(at 121.92 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28b852c0-a494-4cb0-9013-f76d2757281c")
+	)
+	(junction
+		(at 149.86 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d907c8c-ef30-4dba-8b5c-377c8ebdc41d")
+	)
+	(junction
+		(at 177.8 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2db4a9a4-e840-416c-97ea-7bac6e6619fc")
 	)
 	(junction
 		(at 107.95 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d0f4fd1b-e0d0-48e1-b80d-8edef35e05fe")
-	)
-	(junction
-		(at 80.01 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6b6bbbc-08f7-43c2-a982-aaeeff1e28d3")
-	)
-	(junction
-		(at 205.74 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d70753b0-3517-483c-a105-380c674ea1a8")
-	)
-	(junction
-		(at 203.2 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9cea47e-b60e-4a08-ac9d-10281d06a056")
-	)
-	(junction
-		(at 241.3 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da9968b3-f005-4f67-9c02-85f73b06b318")
-	)
-	(junction
-		(at 189.23 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc68a37a-5bf1-4b93-b674-ceb12f6ba463")
-	)
-	(junction
-		(at 80.01 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e13d4969-823a-4826-98a4-be58b1073e16")
-	)
-	(junction
-		(at 161.29 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1f2ff0f-6898-479c-8eb5-d4eecae7a3c8")
-	)
-	(junction
-		(at 203.2 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e34b3e7f-5bda-4890-9a94-14c45f4c6215")
-	)
-	(junction
-		(at 203.2 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e81bcdd8-efc3-4c3c-bb97-2f80634f2ea7")
-	)
-	(junction
-		(at 77.47 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e90ddfb7-18bf-4b25-9ccd-6fc93f858989")
-	)
-	(junction
-		(at 149.86 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb68d7e6-fc46-4c92-94e3-a381d05c9290")
+		(uuid "2e1c9386-fab2-4341-809c-dbac277359ab")
 	)
 	(junction
 		(at 93.98 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ecda6df9-8b07-4559-bb54-680c5d26391f")
+		(uuid "3015cfe2-2f19-4d3d-9d13-b4c8f36448d1")
 	)
 	(junction
-		(at 217.17 77.47)
+		(at 161.29 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "eecec194-5f90-4dce-9a2f-34c5e28cafad")
+		(uuid "31e1d412-8a7a-4a4b-a9c3-cf7b7799c664")
 	)
 	(junction
-		(at 241.3 110.49)
+		(at 91.44 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ef43ba07-b410-4118-8970-9f4cce01c67d")
+		(uuid "32762dfa-5176-44b9-b616-6f4ded2d83c2")
 	)
 	(junction
-		(at 147.32 119.38)
+		(at 133.35 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f8df592a-7a52-4222-80f3-d9b66fe32c16")
+		(uuid "337d39d5-e502-48c8-a100-c27f8d9dd03e")
 	)
 	(junction
-		(at 175.26 53.34)
+		(at 45.72 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f99dcc91-9e57-4fd3-80d9-d16fd0352ef8")
+		(uuid "338d3002-235f-42ce-a0f2-d2d0f4ea5a54")
 	)
 	(junction
-		(at 107.95 91.44)
+		(at 80.01 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f9c303aa-c4fd-4389-a7bc-bfbd3bb9c0cb")
+		(uuid "3741b9eb-b159-425b-8517-0d93f838bbd8")
 	)
 	(junction
-		(at 189.23 143.51)
+		(at 57.15 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f9f1bd45-ebea-45bd-a5e3-235f69e7c56b")
+		(uuid "3f9f1a03-2663-471d-b24f-b0e9075c5a21")
+	)
+	(junction
+		(at 66.04 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3fc3a4b6-71a1-4f8a-b3fc-28222a603914")
+	)
+	(junction
+		(at 191.77 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "426fc5e5-d7db-4b6b-bfe9-d36fefe5d6e4")
+	)
+	(junction
+		(at 177.8 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "435cfac0-6aae-493d-9dbf-acae6f593177")
+	)
+	(junction
+		(at 80.01 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4522f20a-2256-480f-9304-a6956a3424b0")
+	)
+	(junction
+		(at 45.72 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47a083d4-836c-446e-ad31-1f2a02940857")
+	)
+	(junction
+		(at 163.83 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49ad1e1f-e021-41d0-aa8e-1d6d7106c20e")
+	)
+	(junction
+		(at 161.29 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49dd702c-76e4-4094-b754-89caefabc4e7")
 	)
 	(junction
 		(at 133.35 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fb8864f4-9df8-4296-9dd9-a8df8a4dd43e")
+		(uuid "4abc98ad-47b7-4395-b576-3e39e35b510f")
+	)
+	(junction
+		(at 163.83 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f65e6f7-88aa-488f-ad02-83d62be34cd9")
+	)
+	(junction
+		(at 203.2 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50d58ba0-eb23-4719-a293-a137e2a5d464")
+	)
+	(junction
+		(at 105.41 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51bd97b9-4195-45b8-95bf-c98c4f10a46e")
+	)
+	(junction
+		(at 147.32 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "537fec0b-da75-4d38-a346-d5b77dadee0e")
+	)
+	(junction
+		(at 121.92 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53d719e6-c555-4de7-b5ba-f1a917a4cc81")
+	)
+	(junction
+		(at 135.89 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "566e89ed-0769-41b9-a522-9a4dfcd0d618")
+	)
+	(junction
+		(at 189.23 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5be1e4e4-021e-4c78-9790-76bf919be053")
+	)
+	(junction
+		(at 77.47 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c6629c1-8801-432a-806b-2b1b2ef93791")
+	)
+	(junction
+		(at 119.38 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ca907db-6a28-44c3-8177-39b3fbcbfee7")
+	)
+	(junction
+		(at 189.23 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5dbc7455-d928-4c20-b542-de0376a90c12")
+	)
+	(junction
+		(at 77.47 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e4de6fa-e762-4c63-a544-873a95b809d5")
+	)
+	(junction
+		(at 107.95 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ec7b675-f9f4-4e38-ae62-31ec4cd70bb5")
+	)
+	(junction
+		(at 105.41 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60ee6750-4b70-4a41-9d6e-a04fb0e59a9f")
+	)
+	(junction
+		(at 241.3 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6393c7bf-1513-4cf2-ac77-a3440ce7098a")
+	)
+	(junction
+		(at 241.3 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "663e1b12-d2fc-4087-a1d5-3939ff30e340")
+	)
+	(junction
+		(at 175.26 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66a6d105-1679-4b0b-b9ab-717c50664078")
+	)
+	(junction
+		(at 91.44 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "738b91e8-4ee4-4392-8a04-e41ac36afd53")
+	)
+	(junction
+		(at 219.71 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73a8647d-3007-400c-81c8-23d70e9e9602")
+	)
+	(junction
+		(at 133.35 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73fbeca9-9ae9-4ae0-8019-f2f089bdf741")
+	)
+	(junction
+		(at 135.89 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "758aaed5-37bc-468b-8c92-1f079cf3bc8b")
+	)
+	(junction
+		(at 189.23 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "769a69a3-a250-4afc-b4b0-1d70631150a5")
+	)
+	(junction
+		(at 163.83 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7824861b-0e39-44e1-96de-165e46aab49a")
+	)
+	(junction
+		(at 119.38 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "796d0fe7-d227-432e-a68a-81bdc9ad1f2e")
+	)
+	(junction
+		(at 135.89 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7be8132c-3f99-4a7a-9872-2ba1a73891aa")
+	)
+	(junction
+		(at 241.3 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "834797dc-90eb-427b-b410-0891daee97f1")
+	)
+	(junction
+		(at 91.44 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "898364db-13d5-40b6-8a30-6495fb1d2f45")
+	)
+	(junction
+		(at 93.98 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90cc9928-33ac-45f1-8e42-bacb45dc149f")
+	)
+	(junction
+		(at 205.74 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92faa1c3-6fdf-43e3-aff5-c1a4ce7643c9")
+	)
+	(junction
+		(at 203.2 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95b14611-fa4d-4936-9595-730c52175025")
+	)
+	(junction
+		(at 80.01 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97278df5-15ff-46e9-bf85-f27b3d70162e")
+	)
+	(junction
+		(at 57.15 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cfb535f-cbd7-4775-8f2e-f6c0f2fd3236")
+	)
+	(junction
+		(at 149.86 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2064aca-1401-49d2-87e5-0da4ad669720")
+	)
+	(junction
+		(at 175.26 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a766497a-6964-44c2-b476-6ed683d0a114")
+	)
+	(junction
+		(at 91.44 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab680f3d-8612-470c-9bb8-a53f05ccafaf")
+	)
+	(junction
+		(at 45.72 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab903f9c-83a9-477b-b6ba-eb4a27825a8b")
+	)
+	(junction
+		(at 191.77 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aec24712-a89e-4498-9a8d-19bfe0f1c755")
+	)
+	(junction
+		(at 121.92 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aee92b1b-9ad4-479a-a501-fce1208af550")
+	)
+	(junction
+		(at 91.44 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b21fac7b-de51-4cf8-bcf4-20cf0ad6c3b0")
+	)
+	(junction
+		(at 231.14 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7853fa7-b8cd-4e1c-b503-6f6b585164ff")
+	)
+	(junction
+		(at 45.72 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7ae3843-c7b1-4f67-91d6-a5cb8bfb9bce")
+	)
+	(junction
+		(at 147.32 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf024779-1bde-4675-b1fa-b9e90408c77b")
+	)
+	(junction
+		(at 175.26 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c04c74f3-f451-4b35-8c5c-54bb474d6ad1")
+	)
+	(junction
+		(at 66.04 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c055b7d1-5bfe-49ff-94bc-31848820bd23")
+	)
+	(junction
+		(at 161.29 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c094d744-2168-4f32-a746-7b11fcc5f8a7")
+	)
+	(junction
+		(at 57.15 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c14ff244-cea3-4201-b651-20fe6fc4eaf7")
+	)
+	(junction
+		(at 217.17 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c318426f-f108-4d4e-adc5-d20748a3eb19")
+	)
+	(junction
+		(at 133.35 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c407580c-1392-402f-bb47-6972318f532a")
+	)
+	(junction
+		(at 191.77 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5456208-2418-4f0c-bf78-756b454640f2")
+	)
+	(junction
+		(at 77.47 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c76322b6-d59e-4dd6-bb15-43d04ff48e7d")
+	)
+	(junction
+		(at 205.74 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cbab35b4-d2a1-46b6-9ff0-3f24ade4b73b")
+	)
+	(junction
+		(at 57.15 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc5cc519-04bd-4a07-ade8-f09259c7c862")
+	)
+	(junction
+		(at 107.95 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3da0d6b-403f-414f-a636-27e31c414221")
+	)
+	(junction
+		(at 147.32 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3f82f89-fa3b-493e-a9b5-c7178970dd11")
+	)
+	(junction
+		(at 189.23 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4f5f2ba-11c5-471a-8848-f019b7dc3389")
+	)
+	(junction
+		(at 149.86 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7d8ce89-75d0-48d2-9352-562e0d449d98")
+	)
+	(junction
+		(at 119.38 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0496033-9ec3-45f0-afb9-2295bba5680f")
+	)
+	(junction
+		(at 105.41 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e57e03ca-907a-4d4b-b2c0-7eeaa5de9e7e")
+	)
+	(junction
+		(at 66.04 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7579a1c-91ae-420e-9979-518dc454993b")
+	)
+	(junction
+		(at 93.98 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7638007-6f6e-4689-80d7-7ca2bdd6b009")
+	)
+	(junction
+		(at 241.3 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e82013d6-556f-4c03-8a1a-cb59e9fbcf13")
+	)
+	(junction
+		(at 77.47 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8b561ee-4ab4-4505-ac8d-cfff5cd82828")
+	)
+	(junction
+		(at 217.17 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebbbc1a4-f60f-4a4a-b073-bb03bac2dd68")
+	)
+	(junction
+		(at 177.8 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec5583f9-f3cf-4c01-b631-3459a3150641")
+	)
+	(junction
+		(at 203.2 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edbdbf03-9ea5-4e71-8f38-2bc63e2b1558")
+	)
+	(junction
+		(at 133.35 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee7b2525-71af-4f35-afb6-0a75126b5152")
+	)
+	(junction
+		(at 203.2 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0341eb1-5ea5-421b-af07-5be407e3358f")
+	)
+	(junction
+		(at 189.23 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f661bf16-156b-4b9f-a8ff-245f2d02a338")
+	)
+	(junction
+		(at 105.41 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb01369c-d4ba-4910-a392-602dce0cd7af")
+	)
+	(junction
+		(at 217.17 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc35f1f0-ba26-446e-bc0d-121b3f81df0c")
+	)
+	(junction
+		(at 80.01 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdb31dc4-e882-4060-9c1f-fce7a9918d76")
+	)
+	(junction
+		(at 66.04 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff45fd03-3a8d-4ba5-8529-ba27153a777c")
 	)
 	(wire
 		(pts
@@ -996,6 +1116,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 53.34) (xy 57.15 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "055dd884-1a19-4d9d-9518-718ee5af2480")
+	)
+	(wire
+		(pts
 			(xy 163.83 68.58) (xy 163.83 91.44)
 		)
 		(stroke
@@ -1036,6 +1166,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 143.51) (xy 189.23 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aaf45f8-0c7e-4708-a1e6-b17bb15e3e81")
+	)
+	(wire
+		(pts
 			(xy 55.88 44.45) (xy 57.15 44.45)
 		)
 		(stroke
@@ -1053,6 +1193,16 @@
 			(type default)
 		)
 		(uuid "0bbedf8c-4453-4183-9ddc-ce31d8e2430d")
+	)
+	(wire
+		(pts
+			(xy 121.92 110.49) (xy 121.92 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bf3a6ea-8746-401d-b3d6-18c5bf42d2d5")
 	)
 	(wire
 		(pts
@@ -1316,6 +1466,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 34.29) (xy 107.95 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ebe34e-681e-4c37-83b8-d533259538f3")
+	)
+	(wire
+		(pts
 			(xy 189.23 110.49) (xy 189.23 111.76)
 		)
 		(stroke
@@ -1336,6 +1496,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 34.29) (xy 163.83 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f338353-6632-4d7e-a9a1-e55da297a1f2")
+	)
+	(wire
+		(pts
 			(xy 201.93 68.58) (xy 203.2 68.58)
 		)
 		(stroke
@@ -1353,6 +1523,16 @@
 			(type default)
 		)
 		(uuid "31cdcd64-8f0c-435c-ae24-e95eee0d59f9")
+	)
+	(wire
+		(pts
+			(xy 121.92 34.29) (xy 121.92 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34972bd1-2ba6-4c95-8b78-984f328a1e1d")
 	)
 	(wire
 		(pts
@@ -1406,6 +1586,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 34.29) (xy 66.04 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38af0904-b27c-4f37-a16c-ebc5b5170db1")
+	)
+	(wire
+		(pts
 			(xy 57.15 135.89) (xy 57.15 134.62)
 		)
 		(stroke
@@ -1423,6 +1613,16 @@
 			(type default)
 		)
 		(uuid "3a881254-7735-4915-9ac5-09f13667bf05")
+	)
+	(wire
+		(pts
+			(xy 45.72 34.29) (xy 45.72 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ca687c6-5967-40f3-b7b3-c1a233e3f411")
 	)
 	(wire
 		(pts
@@ -1463,6 +1663,16 @@
 			(type default)
 		)
 		(uuid "4162c5bb-e3e4-4af8-856a-a724ad7c31b7")
+	)
+	(wire
+		(pts
+			(xy 57.15 77.47) (xy 77.47 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42562b26-4ee5-4ec0-8022-4bddb6158a60")
 	)
 	(wire
 		(pts
@@ -1586,7 +1796,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 134.62) (xy 143.51 134.62)
+			(xy 133.35 134.62) (xy 132.08 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +2096,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 135.89) (xy 144.78 134.62)
+			(xy 133.35 135.89) (xy 133.35 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1903,16 +2113,6 @@
 			(type default)
 		)
 		(uuid "6f6d30a0-60e5-49b3-bdcd-d7da3689e933")
-	)
-	(wire
-		(pts
-			(xy 133.35 119.38) (xy 133.35 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71eaa64e-e02c-4cbf-b8da-e5262de5b151")
 	)
 	(wire
 		(pts
@@ -1946,16 +2146,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 143.51) (xy 189.23 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74ec91e5-ad94-4c6e-a30e-6b2f7894aa05")
-	)
-	(wire
-		(pts
 			(xy 119.38 110.49) (xy 119.38 111.76)
 		)
 		(stroke
@@ -1963,6 +2153,16 @@
 			(type default)
 		)
 		(uuid "76aba60d-a7ee-4985-90fb-281273e5ad9c")
+	)
+	(wire
+		(pts
+			(xy 93.98 34.29) (xy 93.98 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "777fb958-f550-4553-be61-10e89e31dae9")
 	)
 	(wire
 		(pts
@@ -2053,16 +2253,6 @@
 			(type default)
 		)
 		(uuid "83a5dc3e-e79c-411b-869e-5b87712274ab")
-	)
-	(wire
-		(pts
-			(xy 57.15 77.47) (xy 77.47 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83c5c0bf-1eb3-4ef8-a253-8a6236be3968")
 	)
 	(wire
 		(pts
@@ -2236,7 +2426,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 53.34) (xy 252.73 53.34)
+			(xy 217.17 53.34) (xy 231.14 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2256,7 +2446,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 143.51) (xy 144.78 143.51)
+			(xy 91.44 143.51) (xy 133.35 143.51)
 		)
 		(stroke
 			(width 0)
@@ -2346,6 +2536,26 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 34.29) (xy 191.77 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a352f9f8-53a4-44e5-96dd-7a55a71ceaed")
+	)
+	(wire
+		(pts
+			(xy 135.89 34.29) (xy 135.89 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a36614ad-4c3d-4829-987e-abe790157ec1")
+	)
+	(wire
+		(pts
 			(xy 107.95 91.44) (xy 107.95 110.49)
 		)
 		(stroke
@@ -2353,6 +2563,16 @@
 			(type default)
 		)
 		(uuid "a495dc6a-a058-46b4-9b74-5b84b2ee17c1")
+	)
+	(wire
+		(pts
+			(xy 39.37 77.47) (xy 57.15 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a562cc-6451-464a-92e3-08f096d3e72c")
 	)
 	(wire
 		(pts
@@ -2503,6 +2723,16 @@
 			(type default)
 		)
 		(uuid "aefc321f-faab-46fd-a518-e4637fcf7def")
+	)
+	(wire
+		(pts
+			(xy 80.01 34.29) (xy 80.01 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af260646-e492-40fa-bc43-ee1b11f95dcb")
 	)
 	(wire
 		(pts
@@ -2686,6 +2916,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 53.34) (xy 252.73 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1725cfe-dd3b-4d3a-96e3-05bfb25c4917")
+	)
+	(wire
+		(pts
 			(xy 215.9 134.62) (xy 217.17 134.62)
 		)
 		(stroke
@@ -2723,6 +2963,16 @@
 			(type default)
 		)
 		(uuid "c5a9f481-5bb9-4aca-b914-37325334aac8")
+	)
+	(wire
+		(pts
+			(xy 219.71 34.29) (xy 219.71 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5ea44f5-bdf7-4a45-9e01-00dcb0b634f4")
 	)
 	(wire
 		(pts
@@ -2806,6 +3056,26 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 34.29) (xy 205.74 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0c7d772-6b6c-401e-a120-c02614e3e097")
+	)
+	(wire
+		(pts
+			(xy 149.86 34.29) (xy 149.86 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d12eb119-826d-4c94-9dcc-6546ca3f9f08")
+	)
+	(wire
+		(pts
 			(xy 45.72 68.58) (xy 45.72 91.44)
 		)
 		(stroke
@@ -2863,6 +3133,26 @@
 			(type default)
 		)
 		(uuid "d35b7332-4fd4-4804-b3fc-9bef073d970e")
+	)
+	(wire
+		(pts
+			(xy 39.37 119.38) (xy 57.15 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3ac1ddb-1353-450a-aa43-3287c560cbb5")
+	)
+	(wire
+		(pts
+			(xy 177.8 34.29) (xy 177.8 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d441af8b-8e41-472a-9238-eb6b3832a315")
 	)
 	(wire
 		(pts
@@ -3003,6 +3293,26 @@
 			(type default)
 		)
 		(uuid "e85b0adb-2888-43b6-863e-6073ae8b0efd")
+	)
+	(wire
+		(pts
+			(xy 241.3 34.29) (xy 241.3 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f3f5d1-226f-4ff1-b01c-7b046aeba205")
+	)
+	(wire
+		(pts
+			(xy 39.37 143.51) (xy 57.15 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e91da784-53ed-4dad-be38-451d7ec76c4e")
 	)
 	(wire
 		(pts
@@ -3194,9 +3504,667 @@
 		)
 		(uuid "fcbfb4c7-3295-4abf-a4b6-a4dbcb0c2195")
 	)
+	(wire
+		(pts
+			(xy 39.37 100.33) (xy 57.15 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff91f976-f778-4cc6-8ab3-06ac4f0b42b6")
+	)
+	(global_label "GPIO11"
+		(shape bidirectional)
+		(at 39.37 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "153ef33c-8af2-447c-af26-f68089288d97")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3792 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO14"
+		(shape bidirectional)
+		(at 121.92 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e534807-6a1f-42ef-a43b-b42db5016492")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO2"
+		(shape bidirectional)
+		(at 80.01 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26c4ad77-9d57-4128-a9f8-a21ba93d78c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 24.5087 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO0"
+		(shape bidirectional)
+		(at 45.72 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "30dbc474-8ff4-420f-9d6c-c7836b1203b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.72 24.5087 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO15"
+		(shape bidirectional)
+		(at 135.89 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3787ab88-e1bd-4fab-91dc-3573034884fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 135.89 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO28"
+		(shape bidirectional)
+		(at 128.27 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3af4d0f1-3481-4f70-b823-9f4581a5506a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO1"
+		(shape bidirectional)
+		(at 66.04 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4075d1c4-0133-4750-b831-82bfdf94511f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 66.04 24.5087 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO12"
+		(shape bidirectional)
+		(at 39.37 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "442470b1-2d9d-4268-b578-2ad3c18b4b7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3792 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO13"
+		(shape bidirectional)
+		(at 39.37 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "48043446-1102-47a3-921f-5e13d7116fc4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3792 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO16"
+		(shape bidirectional)
+		(at 149.86 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c22ff18-78e5-4d32-9126-cfca9e423e1e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO3"
+		(shape bidirectional)
+		(at 93.98 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "600d9f09-8cbb-4e9c-a8fd-df80f43b4350")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.98 24.5087 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO19"
+		(shape bidirectional)
+		(at 177.8 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "627a4ba1-5293-40aa-9d91-29a6768b4beb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO26"
+		(shape bidirectional)
+		(at 123.19 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66e24709-6ca5-4afa-afbe-bfe6bdd2f46a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.19 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO20"
+		(shape bidirectional)
+		(at 191.77 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a5034b5-c6bd-42f0-a538-d7fece6bf12c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.77 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO17"
+		(shape bidirectional)
+		(at 163.83 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ae7b312-b5ab-475f-9eff-5fe1d9ed504c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 163.83 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO21"
+		(shape bidirectional)
+		(at 205.74 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8137bd6e-5ecd-478f-b6d4-7d613cacdfb7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.74 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO3"
+		(shape bidirectional)
+		(at 62.23 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "845cd9fa-2900-4fbb-a317-30e4388002bf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 13.0787 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO9"
+		(shape bidirectional)
+		(at 39.37 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8727c9a6-a446-45fa-9707-83b5457c3572")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3792 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GPIO23"
+		(shape bidirectional)
+		(at 113.03 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8cc03d97-ad67-4630-9a3f-a8910b79349c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 113.03 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO22"
+		(shape bidirectional)
+		(at 241.3 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b13e78c1-5a57-44e6-ba0f-efcd11c46adb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 241.3 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO24"
+		(shape bidirectional)
+		(at 115.57 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b359e738-7b2d-40d0-878e-0f37f0220ed4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.57 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO25"
+		(shape bidirectional)
+		(at 118.11 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "df1fb2a7-1c1c-40a0-bde4-0f66a1292af5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.11 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO18"
+		(shape bidirectional)
+		(at 219.71 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4ed4379-88d2-407c-a20c-37ebc2f1f869")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.71 23.2992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO27"
+		(shape bidirectional)
+		(at 125.73 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e66692d4-cd2d-4941-bae2-570e71a21320")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.73 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO29"
+		(shape bidirectional)
+		(at 130.81 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ec172849-c2b5-4409-b5ec-0efe6c049343")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 130.81 11.8692 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO10"
+		(shape bidirectional)
+		(at 107.95 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "edaeb1df-ddfc-465a-9692-7cd5146394d6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 24.5087 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GPIO8"
+		(shape bidirectional)
+		(at 39.37 143.51 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f48b56bf-7c89-4afe-9363-4f4eac10cac0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.5887 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 243.84 30.48 0)
+		(at 252.73 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3207,7 +4175,7 @@
 		(fields_autoplaced yes)
 		(uuid "03250a5e-58ee-4ca1-85b1-98f1a8a9c4e7")
 		(property "Reference" "H1"
-			(at 246.38 29.2099 0)
+			(at 255.27 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3218,7 +4186,7 @@
 			)
 		)
 		(property "Value" "Backspace Stabiliser"
-			(at 246.38 31.7499 0)
+			(at 255.27 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3229,7 +4197,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 243.84 30.48 0)
+			(at 252.73 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3240,7 +4208,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 30.48 0)
+			(at 252.73 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3251,7 +4219,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 243.84 30.48 0)
+			(at 252.73 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3566,7 +4534,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ca77ef4-085d-4f6e-8da4-0dee995cbd58")
-		(property "Reference" "SW48"
+		(property "Reference" "SW51"
 			(at 154.94 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3586,7 +4554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 154.94 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3628,7 +4596,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW48")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -3750,7 +4718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13960025-9cde-4793-82fe-f67757bc5252")
-		(property "Reference" "SW13"
+		(property "Reference" "SW15"
 			(at 224.79 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3770,7 +4738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 224.79 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3812,7 +4780,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW13")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -3830,7 +4798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "169a1877-6e2f-4fa4-8484-a26b2b773f59")
-		(property "Reference" "SW17"
+		(property "Reference" "SW19"
 			(at 85.09 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3850,7 +4818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 85.09 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -3892,7 +4860,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW17")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -3910,7 +4878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "188cbee7-da2b-469c-bee0-1b7a512ec502")
-		(property "Reference" "D47"
+		(property "Reference" "D48"
 			(at 149.86 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3996,7 +4964,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D47")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -4014,7 +4982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19d8b80f-094d-4e44-86a4-759d0e28d172")
-		(property "Reference" "SW38"
+		(property "Reference" "SW40"
 			(at 182.88 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4034,7 +5002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 182.88 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4076,7 +5044,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW38")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -4198,7 +5166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1da330a5-eeca-4d72-bb0d-49f9e5d8e488")
-		(property "Reference" "SW44"
+		(property "Reference" "SW47"
 			(at 99.06 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4218,7 +5186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 99.06 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4260,7 +5228,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW44")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -4278,7 +5246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f21cc5c-a9f8-43b4-9fd3-d144c6fd7c99")
-		(property "Reference" "SW23"
+		(property "Reference" "SW25"
 			(at 168.91 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4298,7 +5266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 168.91 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4340,7 +5308,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW23")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -4358,7 +5326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c7f5960-ff1b-47dc-96fa-de256716cb2f")
-		(property "Reference" "D52"
+		(property "Reference" "D42"
 			(at 59.69 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4444,7 +5412,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D52")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -4878,7 +5846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "312a91e0-1bc8-412d-a6d6-28588a5bf64b")
-		(property "Reference" "SW46"
+		(property "Reference" "SW49"
 			(at 127 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4898,7 +5866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 127 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4940,7 +5908,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW46")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -4958,7 +5926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a7fdd1-86a7-40b3-a99a-277270e2150c")
-		(property "Reference" "SW27"
+		(property "Reference" "SW29"
 			(at 224.79 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4978,7 +5946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 224.79 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5020,7 +5988,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW27")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -5142,7 +6110,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37401aa9-f97a-4cdd-8c0d-a5dd8dc34706")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 71.12 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5162,7 +6130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 71.12 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5204,7 +6172,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -5222,7 +6190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37820259-4a61-40e6-9243-96417921a3ed")
-		(property "Reference" "SW51"
+		(property "Reference" "SW54"
 			(at 196.85 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5242,7 +6210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 196.85 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5284,7 +6252,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW51")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -5302,7 +6270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37adaedd-016b-46d8-bb35-3889379eb309")
-		(property "Reference" "SW10"
+		(property "Reference" "SW12"
 			(at 182.88 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5322,7 +6290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 182.88 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5364,7 +6332,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW10")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -5382,7 +6350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ec4058-7870-487d-a498-fa9554770470")
-		(property "Reference" "SW1"
+		(property "Reference" "SW3"
 			(at 50.8 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5402,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 50.8 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5444,7 +6412,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW1")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -5462,7 +6430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "384e537f-0df3-40bf-8647-01beae2493a1")
-		(property "Reference" "H4"
+		(property "Reference" "H3"
 			(at 260.35 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5520,7 +6488,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "H4")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -5538,7 +6506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d8a5507-7d58-4648-85c1-0185163485ff")
-		(property "Reference" "SW55"
+		(property "Reference" "SW56"
 			(at 50.8 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +6526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.75u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 50.8 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5600,7 +6568,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW55")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -5618,7 +6586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4404d3a2-f0f0-47e1-ac15-0f16fac9f8a6")
-		(property "Reference" "SW14"
+		(property "Reference" "SW16"
 			(at 246.38 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5638,7 +6606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
 			(at 246.38 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5680,7 +6648,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW14")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -6114,7 +7082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52372bf9-8949-43b8-bdb2-bc5abcb116c4")
-		(property "Reference" "SW28"
+		(property "Reference" "SW30"
 			(at 246.38 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6134,7 +7102,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 246.38 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6176,7 +7144,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW28")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -6194,7 +7162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52dac849-b7d2-4514-bf91-3498229f9654")
-		(property "Reference" "SW53"
+		(property "Reference" "SW55"
 			(at 246.38 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6214,7 +7182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
 			(at 246.38 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6256,7 +7224,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW53")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -6264,7 +7232,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 134.62 0)
+		(at 127 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6274,8 +7242,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53ccacf8-2543-4e4a-9196-2e05a20d9a91")
-		(property "Reference" "SW58"
-			(at 138.43 127 0)
+		(property "Reference" "SW59"
+			(at 127 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6285,7 +7253,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 138.43 129.54 0)
+			(at 127 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6294,8 +7262,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
-			(at 138.43 129.54 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_6.25u"
+			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6306,7 +7274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 129.54 0)
+			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6317,7 +7285,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 138.43 134.62 0)
+			(at 127 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6336,7 +7304,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW58")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -6354,7 +7322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54577652-740c-4cfd-8389-6a0b3840b3bb")
-		(property "Reference" "D60"
+		(property "Reference" "D59"
 			(at 205.74 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6440,7 +7408,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D60")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -6458,7 +7426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55dc1f50-c086-4de1-b8ef-98ea56e12313")
-		(property "Reference" "D56"
+		(property "Reference" "D55"
 			(at 80.01 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6544,7 +7512,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D56")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -6562,7 +7530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5608e82e-7b7a-4944-aeab-8c17db021546")
-		(property "Reference" "D45"
+		(property "Reference" "D46"
 			(at 121.92 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6648,7 +7616,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D45")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -6666,7 +7634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57cdd093-64c9-4e1b-9201-ca679c0425d2")
-		(property "Reference" "SW57"
+		(property "Reference" "SW58"
 			(at 85.09 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6686,7 +7654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 85.09 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6728,7 +7696,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW57")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -6736,7 +7704,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 144.78 139.7 90)
+		(at 133.35 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6746,8 +7714,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59d94d25-3cd1-421e-94a1-4119d004156b")
-		(property "Reference" "D58"
-			(at 147.32 138.4299 90)
+		(property "Reference" "D57"
+			(at 135.89 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6758,7 +7726,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 147.32 140.9699 90)
+			(at 135.89 140.9699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6769,7 +7737,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 149.225 139.7 0)
+			(at 137.795 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6780,7 +7748,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 144.78 139.7 0)
+			(at 133.35 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6791,7 +7759,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 144.78 139.7 0)
+			(at 133.35 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6802,7 +7770,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 144.78 139.7 0)
+			(at 133.35 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6813,7 +7781,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 144.78 139.7 0)
+			(at 133.35 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6832,7 +7800,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D58")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -7058,7 +8026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e3a0d1c-9a5b-419f-9df7-29546fcec6ee")
-		(property "Reference" "SW5"
+		(property "Reference" "SW7"
 			(at 113.03 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7078,7 +8046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 113.03 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -7120,7 +8088,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW5")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -7450,7 +8418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68d69540-8fd7-4a9f-9c21-78d616c7623c")
-		(property "Reference" "SW8"
+		(property "Reference" "SW10"
 			(at 154.94 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +8438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 154.94 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -7512,7 +8480,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW8")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -7530,7 +8498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a2d6f4b-119e-42d1-b401-359eb8f79aa7")
-		(property "Reference" "D43"
+		(property "Reference" "D44"
 			(at 93.98 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7616,7 +8584,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D43")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -7634,7 +8602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b06f9ed-687e-49f4-8bda-49befca4a137")
-		(property "Reference" "SW42"
+		(property "Reference" "SW45"
 			(at 71.12 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7654,7 +8622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 71.12 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7696,7 +8664,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW42")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -7714,7 +8682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e6d809c-540d-47a3-bbff-30bbbd2c5832")
-		(property "Reference" "SW30"
+		(property "Reference" "SW32"
 			(at 71.12 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +8702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 71.12 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7776,7 +8744,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW30")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -7794,7 +8762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71bb1f02-d04a-4c96-8eca-6ceb37f6d508")
-		(property "Reference" "SW43"
+		(property "Reference" "SW46"
 			(at 85.09 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7814,7 +8782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 85.09 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7856,7 +8824,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW43")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -8054,7 +9022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7716ca81-d2b0-484b-a937-6f90b72289ae")
-		(property "Reference" "SW21"
+		(property "Reference" "SW23"
 			(at 140.97 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8074,7 +9042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 140.97 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8116,7 +9084,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW21")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -8134,7 +9102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c8ffe28-584f-41e7-a784-f96a1e00fcdf")
-		(property "Reference" "SW34"
+		(property "Reference" "SW36"
 			(at 127 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8154,7 +9122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -8196,7 +9164,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW34")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -8214,7 +9182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d27ed17-eebd-4c54-a223-497177dd59f3")
-		(property "Reference" "SW9"
+		(property "Reference" "SW11"
 			(at 168.91 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8234,7 +9202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8276,7 +9244,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW9")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -8294,7 +9262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d33b6c5-991e-44fe-b645-8b142bc0d0ba")
-		(property "Reference" "SW60"
+		(property "Reference" "SW61"
 			(at 196.85 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8314,7 +9282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 196.85 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8356,7 +9324,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW60")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -8374,7 +9342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f020c12-7a84-4fea-81a6-0b8439745b69")
-		(property "Reference" "SW59"
+		(property "Reference" "SW60"
 			(at 182.88 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8394,7 +9362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_6.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 182.88 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8436,7 +9404,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW59")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -8454,7 +9422,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f15e5da-152b-4ed5-8fff-da16217b11af")
-		(property "Reference" "SW49"
+		(property "Reference" "SW52"
 			(at 168.91 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8474,7 +9442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 168.91 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -8516,7 +9484,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW49")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -8534,7 +9502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f1d7338-b3a2-4e26-94ba-1e2f990aee17")
-		(property "Reference" "SW16"
+		(property "Reference" "SW18"
 			(at 71.12 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8554,7 +9522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 71.12 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8596,7 +9564,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW16")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -8614,7 +9582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "806f98ee-4772-48ef-aeb5-eb2133d92a3b")
-		(property "Reference" "D42"
+		(property "Reference" "D43"
 			(at 80.01 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8700,7 +9668,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D42")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -8718,7 +9686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8391ba08-6b72-4b32-b605-a932d3937b7a")
-		(property "Reference" "SW40"
+		(property "Reference" "SW42"
 			(at 210.82 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8738,7 +9706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -8780,7 +9748,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW40")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -8798,7 +9766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86162b78-cf7a-4cab-8166-2778cd6461f4")
-		(property "Reference" "SW19"
+		(property "Reference" "SW21"
 			(at 113.03 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8818,7 +9786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 113.03 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8860,7 +9828,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW19")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -8878,7 +9846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "871447bd-2cb3-47cc-9989-b059376447aa")
-		(property "Reference" "D50"
+		(property "Reference" "D51"
 			(at 191.77 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8964,7 +9932,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D50")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -9086,7 +10054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88a50109-692c-47f3-a24f-456f9690f891")
-		(property "Reference" "D61"
+		(property "Reference" "D60"
 			(at 219.71 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9172,7 +10140,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D61")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -9190,7 +10158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bf770bb-91c3-44a9-9d4c-b00040a8bbf6")
-		(property "Reference" "SW32"
+		(property "Reference" "SW34"
 			(at 99.06 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9210,7 +10178,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 99.06 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9252,7 +10220,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW32")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -9270,7 +10238,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c67e9ea-3cc4-421e-b92f-61f66edf07a0")
-		(property "Reference" "SW61"
+		(property "Reference" "SW62"
 			(at 210.82 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9290,7 +10258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 210.82 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9332,7 +10300,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW61")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -9350,7 +10318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d38da2a-98eb-4b3d-909e-8c5c8e6253df")
-		(property "Reference" "SW26"
+		(property "Reference" "SW28"
 			(at 210.82 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9370,7 +10338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9412,7 +10380,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW26")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -9534,7 +10502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9096b81b-a8cb-4bc6-a7bc-8a4f6d4902fe")
-		(property "Reference" "SW11"
+		(property "Reference" "SW13"
 			(at 196.85 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9554,7 +10522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 196.85 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9596,7 +10564,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW11")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -9614,7 +10582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "914488b4-c58d-424a-8add-5ea249801fc8")
-		(property "Reference" "SW31"
+		(property "Reference" "SW33"
 			(at 85.09 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9634,7 +10602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 85.09 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9676,7 +10644,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW31")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -9694,7 +10662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91813afe-162a-4c28-be50-d0e1a80ef267")
-		(property "Reference" "D59"
+		(property "Reference" "D58"
 			(at 191.77 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9780,7 +10748,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D59")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -9798,7 +10766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "925abf0a-5715-47f0-83e5-5cf04d6fbbcd")
-		(property "Reference" "SW3"
+		(property "Reference" "SW5"
 			(at 85.09 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9818,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 85.09 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9860,7 +10828,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW3")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -9878,7 +10846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "971182a9-b695-4475-b3da-8cb0719c3316")
-		(property "Reference" "SW7"
+		(property "Reference" "SW9"
 			(at 140.97 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9898,7 +10866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 140.97 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9940,7 +10908,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW7")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -9958,7 +10926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9789d3c1-d334-4ebc-bd9b-0532558edc8e")
-		(property "Reference" "D46"
+		(property "Reference" "D47"
 			(at 135.89 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10044,7 +11012,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D46")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -10374,7 +11342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d524d9c-1e0f-4753-9c1d-8cbf75c1fd5c")
-		(property "Reference" "SW12"
+		(property "Reference" "SW14"
 			(at 210.82 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10394,7 +11362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10436,7 +11404,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW12")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -10454,7 +11422,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a254f8e5-a55d-4536-8418-e2bce39efecc")
-		(property "Reference" "SW25"
+		(property "Reference" "SW27"
 			(at 196.85 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10474,7 +11442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 196.85 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10516,7 +11484,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW25")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -10534,7 +11502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a270b48a-8d21-4b95-b2cd-3227ef260b5f")
-		(property "Reference" "SW35"
+		(property "Reference" "SW37"
 			(at 140.97 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10554,7 +11522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 140.97 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -10596,7 +11564,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW35")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -11134,7 +12102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afe3c68f-1ee7-46c3-a627-6f17fdef8649")
-		(property "Reference" "SW47"
+		(property "Reference" "SW50"
 			(at 140.97 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11154,7 +12122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 140.97 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11196,7 +12164,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW47")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -11214,7 +12182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7af4d33-413b-4420-a3be-bc3a59c3531b")
-		(property "Reference" "SW6"
+		(property "Reference" "SW8"
 			(at 127 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11234,7 +12202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 127 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11276,7 +12244,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW6")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -11398,7 +12366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9cd1150-d64e-4dac-a714-aa23393f07c0")
-		(property "Reference" "SW45"
+		(property "Reference" "SW48"
 			(at 113.03 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11418,7 +12386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 113.03 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11460,7 +12428,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW45")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -11686,7 +12654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd6f72ec-97a0-49c1-a156-982f789c7a40")
-		(property "Reference" "SW50"
+		(property "Reference" "SW53"
 			(at 182.88 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11706,7 +12674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 182.88 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11748,7 +12716,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW50")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -11870,7 +12838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c03108b2-7c43-455b-9c3e-169e9884c0c1")
-		(property "Reference" "SW36"
+		(property "Reference" "SW38"
 			(at 154.94 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11890,7 +12858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 154.94 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -11932,7 +12900,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW36")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -11950,7 +12918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c77e870b-4156-4b0d-a932-b8ac417bac52")
-		(property "Reference" "SW56"
+		(property "Reference" "SW57"
 			(at 71.12 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11970,7 +12938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 71.12 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12012,7 +12980,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW56")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -12030,7 +12998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8df75a0-7649-42e8-b8de-1773f458fe75")
-		(property "Reference" "D51"
+		(property "Reference" "D52"
 			(at 205.74 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12116,7 +13084,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D51")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -12238,7 +13206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd28fa29-f609-4019-b78e-e2bb59f67c9a")
-		(property "Reference" "SW37"
+		(property "Reference" "SW39"
 			(at 168.91 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12258,7 +13226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 168.91 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12300,7 +13268,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW37")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -12422,7 +13390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7b653d6-6682-4cf8-8421-342b680ea061")
-		(property "Reference" "SW24"
+		(property "Reference" "SW26"
 			(at 182.88 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12442,7 +13410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 182.88 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12484,7 +13452,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW24")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -12606,7 +13574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d808032e-0cfc-417a-a163-f2c39d8de3fd")
-		(property "Reference" "D48"
+		(property "Reference" "D49"
 			(at 163.83 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12692,7 +13660,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D48")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -12814,7 +13782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbc09c7b-9edb-4fe9-af80-d6ac7ba5bf70")
-		(property "Reference" "SW20"
+		(property "Reference" "SW22"
 			(at 127 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12834,7 +13802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 127 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12876,7 +13844,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW20")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -12894,7 +13862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc528a0e-a28c-4742-b1df-05b9feb39d8d")
-		(property "Reference" "SW33"
+		(property "Reference" "SW35"
 			(at 113.03 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12914,7 +13882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 113.03 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12956,7 +13924,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW33")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -13078,7 +14046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df8a7972-4277-47a8-a4fa-e5a9ee132a40")
-		(property "Reference" "D44"
+		(property "Reference" "D45"
 			(at 107.95 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13164,7 +14132,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D44")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -13182,7 +14150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e13f82b5-9840-4bef-816a-6db53b6a81ea")
-		(property "Reference" "D49"
+		(property "Reference" "D50"
 			(at 177.8 114.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13268,7 +14236,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D49")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -13286,7 +14254,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e369c377-a107-4e68-b4fe-9fb33e0f60f7")
-		(property "Reference" "D57"
+		(property "Reference" "D56"
 			(at 93.98 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13372,7 +14340,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D57")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -13390,7 +14358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e492058c-31bd-4a11-a606-b29558d2ae33")
-		(property "Reference" "SW54"
+		(property "Reference" "SW63"
 			(at 246.38 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13410,7 +14378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 246.38 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -13452,7 +14420,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW54")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -13574,7 +14542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6727efd-5e7f-4e4b-93bf-fd1f10c6bf78")
-		(property "Reference" "SW29"
+		(property "Reference" "SW31"
 			(at 50.8 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13594,7 +14562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
 			(at 50.8 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -13636,7 +14604,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW29")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -13654,7 +14622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8d2f4c8-7d66-46a3-b700-763fc7fee3e3")
-		(property "Reference" "D54"
+		(property "Reference" "D61"
 			(at 255.27 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13740,7 +14708,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D54")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -13758,7 +14726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eaf39cce-2920-4354-bb22-9e2f53e7b06f")
-		(property "Reference" "SW18"
+		(property "Reference" "SW20"
 			(at 99.06 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13778,7 +14746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 99.06 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -13820,7 +14788,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW18")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -13838,7 +14806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb0dbdb8-fd69-4872-8807-d0a7890d9726")
-		(property "Reference" "SW41"
+		(property "Reference" "SW43"
 			(at 246.38 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13858,7 +14826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 246.38 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -13900,7 +14868,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW41")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -13918,7 +14886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb7c6be6-b4d7-498c-819b-105f7599d2af")
-		(property "Reference" "SW39"
+		(property "Reference" "SW41"
 			(at 196.85 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13938,7 +14906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 196.85 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -13980,7 +14948,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW39")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -13998,7 +14966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebb92c50-d318-4245-9e26-554f1bf9b2e5")
-		(property "Reference" "SW22"
+		(property "Reference" "SW24"
 			(at 154.94 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14018,7 +14986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 154.94 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14060,7 +15028,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW22")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -14286,7 +15254,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecc9be23-c3f5-404b-9a0e-96b896cd6b1e")
-		(property "Reference" "D55"
+		(property "Reference" "D54"
 			(at 59.69 138.4299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14372,7 +15340,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "D55")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -14390,7 +15358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f31fe9c3-1fb3-4ec6-afa4-2ac050a27465")
-		(property "Reference" "SW15"
+		(property "Reference" "SW17"
 			(at 50.8 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14410,7 +15378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 50.8 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14452,7 +15420,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW15")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -14470,7 +15438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3d84ab2-2608-41d8-9020-3655aef87b1c")
-		(property "Reference" "SW52"
+		(property "Reference" "SW44"
 			(at 50.8 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14490,7 +15458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 50.8 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -14532,7 +15500,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW52")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -14644,7 +15612,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 22.86 109.22 0)
+		(at 24.13 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14654,8 +15622,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc2f54b7-93c0-42c5-9804-09c6f4ace519")
-		(property "Reference" "H3"
-			(at 25.4 107.9499 0)
+		(property "Reference" "H4"
+			(at 26.67 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14666,7 +15634,7 @@
 			)
 		)
 		(property "Value" "LShift Stabiliser"
-			(at 25.4 110.4899 0)
+			(at 26.67 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14677,7 +15645,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 22.86 109.22 0)
+			(at 24.13 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14688,7 +15656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 109.22 0)
+			(at 24.13 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14699,7 +15667,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 22.86 109.22 0)
+			(at 24.13 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14712,7 +15680,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "H3")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -14730,7 +15698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff27153b-7bff-48a9-b858-75ce1e466701")
-		(property "Reference" "SW4"
+		(property "Reference" "SW6"
 			(at 99.06 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14750,7 +15718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 99.06 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14792,7 +15760,7 @@
 		(instances
 			(project "cybdokeebs_keyboard"
 				(path "/cc9fdf3e-ec0d-4aa5-b403-9f76d37d7122"
-					(reference "SW4")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
