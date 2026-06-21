@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "9919a4c0-a87a-4146-b547-4b221dff87d5")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -2466,8 +2466,8 @@
 		)
 	)
 	(rectangle
-		(start -48.26 55.88)
-		(end 6.35 120.65)
+		(start 24.13 208.28)
+		(end 78.74 273.05)
 		(stroke
 			(width 0)
 			(type default)
@@ -2521,7 +2521,7 @@
 	)
 	(text "Buttons"
 		(exclude_from_sim no)
-		(at -21.082 62.738 0)
+		(at 51.308 215.138 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -2540,13 +2540,13 @@
 		(uuid "efa63ae3-8355-49cf-b295-5bfc0fc7452b")
 	)
 	(junction
-		(at -38.1 77.47)
+		(at 34.29 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00c27b5e-ddc3-4f72-9601-4e4b5e306b8b")
 	)
 	(junction
-		(at -10.16 87.63)
+		(at 62.23 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0883506d-ddf7-4852-aab2-5c9049ae0cff")
@@ -2876,7 +2876,7 @@
 		(uuid "f55e69e6-73bf-4493-9916-8e67c2584954")
 	)
 	(junction
-		(at -10.16 110.49)
+		(at 62.23 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6556575-1d17-4f02-98cc-b75646b09762")
@@ -2894,7 +2894,7 @@
 		(uuid "f8105a04-8748-4ce9-85f5-5ebd2622adfb")
 	)
 	(junction
-		(at -38.1 87.63)
+		(at 34.29 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa099d9c-aaed-43d5-a2c3-c185868abd5a")
@@ -3157,7 +3157,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 77.47) (xy -38.1 78.74)
+			(xy 34.29 229.87) (xy 34.29 231.14)
 		)
 		(stroke
 			(width 0)
@@ -3187,7 +3187,7 @@
 	)
 	(wire
 		(pts
-			(xy -24.13 87.63) (xy -38.1 87.63)
+			(xy 48.26 240.03) (xy 34.29 240.03)
 		)
 		(stroke
 			(width 0)
@@ -3347,7 +3347,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 87.63) (xy -10.16 88.9)
+			(xy 62.23 240.03) (xy 62.23 241.3)
 		)
 		(stroke
 			(width 0)
@@ -3357,7 +3357,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 110.49) (xy -10.16 110.49)
+			(xy 34.29 262.89) (xy 62.23 262.89)
 		)
 		(stroke
 			(width 0)
@@ -3757,7 +3757,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 109.22) (xy -10.16 110.49)
+			(xy 62.23 261.62) (xy 62.23 262.89)
 		)
 		(stroke
 			(width 0)
@@ -3817,7 +3817,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 87.63) (xy -38.1 86.36)
+			(xy 34.29 240.03) (xy 34.29 238.76)
 		)
 		(stroke
 			(width 0)
@@ -3977,7 +3977,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 87.63) (xy -38.1 88.9)
+			(xy 34.29 240.03) (xy 34.29 241.3)
 		)
 		(stroke
 			(width 0)
@@ -4007,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 77.47) (xy -38.1 77.47)
+			(xy 62.23 229.87) (xy 34.29 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4107,7 +4107,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 99.06) (xy -10.16 101.6)
+			(xy 62.23 251.46) (xy 62.23 254)
 		)
 		(stroke
 			(width 0)
@@ -4147,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 99.06) (xy -38.1 101.6)
+			(xy 34.29 251.46) (xy 34.29 254)
 		)
 		(stroke
 			(width 0)
@@ -4157,7 +4157,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 78.74) (xy -10.16 77.47)
+			(xy 62.23 231.14) (xy 62.23 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4207,7 +4207,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 76.2) (xy -38.1 77.47)
+			(xy 34.29 228.6) (xy 34.29 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4287,7 +4287,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 87.63) (xy 1.27 87.63)
+			(xy 62.23 240.03) (xy 73.66 240.03)
 		)
 		(stroke
 			(width 0)
@@ -4387,7 +4387,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 110.49) (xy -10.16 113.03)
+			(xy 62.23 262.89) (xy 62.23 265.43)
 		)
 		(stroke
 			(width 0)
@@ -4657,7 +4657,7 @@
 	)
 	(wire
 		(pts
-			(xy -10.16 86.36) (xy -10.16 87.63)
+			(xy 62.23 238.76) (xy 62.23 240.03)
 		)
 		(stroke
 			(width 0)
@@ -4677,7 +4677,7 @@
 	)
 	(wire
 		(pts
-			(xy -38.1 109.22) (xy -38.1 110.49)
+			(xy 34.29 261.62) (xy 34.29 262.89)
 		)
 		(stroke
 			(width 0)
@@ -4796,7 +4796,7 @@
 		(uuid "6c38ff22-6511-496e-861f-9a1cf5b9533c")
 	)
 	(label "BOOTSEL"
-		(at -24.13 87.63 180)
+		(at 48.26 240.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4816,7 +4816,7 @@
 		(uuid "bfe84150-3291-49f7-81e1-84cccface876")
 	)
 	(label "RESET"
-		(at 1.27 87.63 180)
+		(at 73.66 240.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4933,7 +4933,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -38.1 93.98 90)
+		(at 34.29 246.38 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4944,7 +4944,7 @@
 		(fields_autoplaced yes)
 		(uuid "14388153-00f2-46b9-8c92-901ad02aff1a")
 		(property "Reference" "SW1"
-			(at -36.83 92.7099 90)
+			(at 35.56 245.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4955,7 +4955,7 @@
 			)
 		)
 		(property "Value" "BOOTSEL"
-			(at -36.83 95.2499 90)
+			(at 35.56 247.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4966,7 +4966,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
-			(at -43.18 93.98 0)
+			(at 29.21 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4977,7 +4977,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -43.18 93.98 0)
+			(at 29.21 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4988,7 +4988,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -38.1 93.98 0)
+			(at 34.29 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5168,7 +5168,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at -10.16 105.41 180)
+		(at 62.23 257.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5179,7 +5179,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fe12cb6-95c2-4de9-a5d0-98c9a05cd6fa")
 		(property "Reference" "R8"
-			(at -7.62 104.1399 0)
+			(at 64.77 256.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5190,7 +5190,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at -7.62 106.6799 0)
+			(at 64.77 259.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5201,7 +5201,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at -8.382 105.41 90)
+			(at 64.008 257.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5212,7 +5212,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -10.16 105.41 0)
+			(at 62.23 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5223,7 +5223,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at -10.16 105.41 0)
+			(at 62.23 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5250,7 +5250,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at -38.1 105.41 180)
+		(at 34.29 257.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5261,7 +5261,7 @@
 		(fields_autoplaced yes)
 		(uuid "31dad0e3-0904-4cab-b990-6e7253faed5e")
 		(property "Reference" "R6"
-			(at -35.56 104.1399 0)
+			(at 36.83 256.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5272,7 +5272,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at -35.56 106.6799 0)
+			(at 36.83 259.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5283,7 +5283,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at -36.322 105.41 90)
+			(at 36.068 257.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5294,7 +5294,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -38.1 105.41 0)
+			(at 34.29 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5305,7 +5305,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at -38.1 105.41 0)
+			(at 34.29 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5734,7 +5734,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -10.16 113.03 0)
+		(at 62.23 265.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5745,7 +5745,7 @@
 		(fields_autoplaced yes)
 		(uuid "441adb51-55a9-4a43-949c-8a526e9e46b5")
 		(property "Reference" "#PWR014"
-			(at -10.16 119.38 0)
+			(at 62.23 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5756,7 +5756,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -10.16 118.11 0)
+			(at 62.23 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5766,7 +5766,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -10.16 113.03 0)
+			(at 62.23 265.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5777,7 +5777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -10.16 113.03 0)
+			(at 62.23 265.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5788,7 +5788,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -10.16 113.03 0)
+			(at 62.23 265.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6050,7 +6050,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at -38.1 82.55 180)
+		(at 34.29 234.95 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6061,7 +6061,7 @@
 		(fields_autoplaced yes)
 		(uuid "51f2960b-25d2-4cba-bf81-bf9075153375")
 		(property "Reference" "R5"
-			(at -35.56 81.2799 0)
+			(at 36.83 233.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6072,7 +6072,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at -35.56 83.8199 0)
+			(at 36.83 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6083,7 +6083,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at -36.322 82.55 90)
+			(at 36.068 234.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6094,7 +6094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -38.1 82.55 0)
+			(at 34.29 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6105,7 +6105,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at -38.1 82.55 0)
+			(at 34.29 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6212,7 +6212,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at -38.1 76.2 0)
+		(at 34.29 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6223,7 +6223,7 @@
 		(fields_autoplaced yes)
 		(uuid "588562b6-6770-4684-8a3f-a8e6ccd097cb")
 		(property "Reference" "#PWR012"
-			(at -38.1 80.01 0)
+			(at 34.29 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6234,7 +6234,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at -38.1 71.12 0)
+			(at 34.29 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6244,7 +6244,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -38.1 76.2 0)
+			(at 34.29 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6255,7 +6255,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -38.1 76.2 0)
+			(at 34.29 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6266,7 +6266,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at -38.1 76.2 0)
+			(at 34.29 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7012,7 +7012,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -10.16 93.98 90)
+		(at 62.23 246.38 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7023,7 +7023,7 @@
 		(fields_autoplaced yes)
 		(uuid "84eb65b7-7e4e-40d8-91e3-bc52ca7dd212")
 		(property "Reference" "SW2"
-			(at -8.89 92.7099 90)
+			(at 63.5 245.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7034,7 +7034,7 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at -8.89 95.2499 90)
+			(at 63.5 247.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7045,7 +7045,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
-			(at -15.24 93.98 0)
+			(at 57.15 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7056,7 +7056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -15.24 93.98 0)
+			(at 57.15 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7067,7 +7067,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -10.16 93.98 0)
+			(at 62.23 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8473,7 +8473,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at -10.16 82.55 180)
+		(at 62.23 234.95 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8484,7 +8484,7 @@
 		(fields_autoplaced yes)
 		(uuid "c77ac6f3-f3db-4d78-bf7c-c49572b58aaf")
 		(property "Reference" "R7"
-			(at -7.62 81.2799 0)
+			(at 64.77 233.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8495,7 +8495,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at -7.62 83.8199 0)
+			(at 64.77 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8506,7 +8506,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at -8.382 82.55 90)
+			(at 64.008 234.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8517,7 +8517,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -10.16 82.55 0)
+			(at 62.23 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8528,7 +8528,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at -10.16 82.55 0)
+			(at 62.23 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
