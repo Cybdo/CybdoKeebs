@@ -2,7 +2,7 @@
 
 A hotswappable ecosystem of i2c powered keyboard modules!
 
-<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/36e9397b-e3a6-466a-815b-8bfe1fb51e0a" />
+<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/a6858a33-742c-4b75-870c-0c25881b0fb7" />
 
 
 I made this project because I wanted to make something cooler than a macropad, and being able to just swap stuff around seemed really sick.=
@@ -48,14 +48,19 @@ found at `bom.csv`, assuming 1 controller hub, one keyboard and one macropad
 
 ## Hub
 <img width="1105" height="143" alt="image" src="https://github.com/user-attachments/assets/723b3de5-fae6-495b-8fa9-b3af30193b9e" />
+<img width="1489" height="511" alt="image" src="https://github.com/user-attachments/assets/a17632df-f8be-49d8-864c-68f20d8f23c4" />
+
 
 ## Macropad
 <img width="719" height="834" alt="image" src="https://github.com/user-attachments/assets/0078520c-c13f-4f9f-ac00-9aa92dab00e4" />
+<img width="847" height="834" alt="image" src="https://github.com/user-attachments/assets/c7166326-76ef-485f-b5a4-10e6a7acec51" />
+
 
 
 ## Keyboard
 
 <img width="1102" height="443" alt="image" src="https://github.com/user-attachments/assets/29a2cda8-c334-4d93-bbe5-17e4d4c4d65f" />
+<img width="1096" height="518" alt="image" src="https://github.com/user-attachments/assets/e33a8f0e-0961-4e96-bafe-638ddc735e59" />
 
 
 
