@@ -2,7 +2,7 @@
 
 A hotswappable ecosystem of i2c powered keyboard modules!
 
-<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/a6858a33-742c-4b75-870c-0c25881b0fb7" />
+<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/4b6f1688-3631-4b74-98f8-18b86015d124" />
 
 
 I made this project because I wanted to make something cooler than a macropad, and being able to just swap stuff around seemed really sick.=
@@ -27,8 +27,18 @@ Firmware runs on circuitpython, and the firmware for each module is under `modul
 # Custom modules
 Each module is made as a composite of "sub units", each being 6cm tall and 5cm wide, with male pogo pins on the top and left sides, and female recievers on the bottom and right sides. These can be found here: https://www.aliexpress.com/item/1005005284441979.html
 
+# Assembly
+Everything is designed to be tray mounted, as to not obstruct the pogo pin assemblies! This means, the plate snaps into and are held up by keyswitches.
+
+To put the keyboard together, put 4 keyswitches in each of the corners of the plate, then put the keyswitches through their sockets. After checking that everything is aligned, put in the rest of the switches!
+
+<img width="1920" height="1080" alt="assembled render" src="https://github.com/user-attachments/assets/581f3d1a-0e76-48a7-b71c-4e920ce29e12" />
+
+
 # BOM
 found at `bom.csv`, assuming 1 controller hub, one keyboard and one macropad
+
+
 
 # Schematics
 
@@ -69,3 +79,5 @@ found at `bom.csv`, assuming 1 controller hub, one keyboard and one macropad
  - [Hack Club Fallout](https://fallout.hackclub.com)
  - [Ocreeb V2](https://github.com/sb-ocr/ocreeb-mk-2)
  - [CircuitPython](https://circuitpython.org/)
+ - [ai03 Plate Generator](https://kbplate.ai03.com/)
+ - [Hack Club Hackpad](https://hackpad.hackclub.com)
