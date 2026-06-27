@@ -5,7 +5,7 @@ A hotswappable ecosystem of i2c powered keyboard modules!
 <img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/00be812e-2085-452c-9aaf-f7b29c8bb90c" />
 
 
-I made this project because I wanted to make something cooler than a macropad, and being able to just swap stuff around seemed really sick.=
+I made this project because I wanted to make something cooler than a macropad, and being able to just swap stuff around seemed really sick.
 
 Inspired by [Ocreeb](https://www.youtube.com/watch?v=7DfexfHzT-w)!
 
