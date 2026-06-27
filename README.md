@@ -2,7 +2,7 @@
 
 A hotswappable ecosystem of i2c powered keyboard modules!
 
-<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/4b6f1688-3631-4b74-98f8-18b86015d124" />
+<img width="401" height="614" alt="Zine" src="https://github.com/user-attachments/assets/00be812e-2085-452c-9aaf-f7b29c8bb90c" />
 
 
 I made this project because I wanted to make something cooler than a macropad, and being able to just swap stuff around seemed really sick.=
@@ -32,7 +32,7 @@ Everything is designed to be tray mounted, as to not obstruct the pogo pin assem
 
 To put the keyboard together, put 4 keyswitches in each of the corners of the plate, then put the keyswitches through their sockets. After checking that everything is aligned, put in the rest of the switches!
 
-<img width="1920" height="1080" alt="assembled render" src="https://github.com/user-attachments/assets/581f3d1a-0e76-48a7-b71c-4e920ce29e12" />
+<img width="1920" height="1080" alt="assembled render" src="https://github.com/user-attachments/assets/f0bed500-c466-437f-a638-83d394add7e8" />
 
 
 # BOM
